@@ -1,0 +1,10 @@
+hypothesis_id,evidence_id,evidence_type,finding,effect_on_hypothesis,status
+CG-NE-01,REV_RESOURCE_2024,contrary,"2024 Computer Science Review survey compares 35 strategies and benchmarks 19 algorithms","Strongly narrows any claim that no comparative benchmark exists","verified"
+CG-NE-01,PNE011,contrary,"Joint energy, completion time, and model accuracy optimization with explicit decision variables","Shows multi-objective evaluation already exists","verified"
+CG-NE-01,PNE015,contrary,"O-RAN FRL integrates energy efficiency, video quality, communication delay, and computation delay into QoE","Shows richer cross-layer objectives are already being evaluated","verified"
+CG-NE-01,PNE016,contrary,"Dynamic resource leasing jointly treats GPU, CPU, bandwidth, rendering delay, visual quality and resource utilization","Shows multidimensional resource benchmarking exists within individual studies","verified"
+CG-NE-01,PNE017,contrary,"Safe RL evaluates MTP-constrained interactive VR with sensor-information age and device power","Shows system-realistic queue/safety constraints are entering evaluation","verified"
+CG-NE-02,PNE017,partial-contrary,"Training convergence is explicitly evaluated","Some algorithm-cost/adaptation evidence exists, but broader inference/training/sample-efficiency reporting remains to audit","verified"
+CG-NE-03,PNE011,contrary,"Energy-latency-accuracy trade-off is explicitly formulated","Invalidates any claim that cross-objective evaluation is absent","verified"
+CG-NE-03,PNE012,contrary,"Latency, energy, QoE and disruption risk are jointly considered","Further narrows cross-objective gap","verified"
+CG-NE-04,REV_RESOURCE_2024,uncertain,"Published benchmark of 19 algorithms demonstrates at least some reproducible/comparative implementation capability","Reproducibility-deficit claim requires artifact-level audit, not literature absence","verified"
