@@ -1,0 +1,8 @@
+code,label,definition,minimum_evidence
+D0,concept,"Architecture/use case proposed without implementation","described design or scenario"
+D1,simulation,"System or algorithm evaluated in simulator/synthetic environment","named simulator/model or reproducible synthetic setup"
+D2,lab_prototype,"Working prototype under laboratory/local conditions","implemented components and measured behavior"
+D3,testbed,"Integrated system evaluated on a controlled hardware/network testbed","hardware/network/testbed configuration and measurements"
+D4,pilot,"System evaluated with target-domain users/processes in a limited real setting","real setting, bounded scale, observed outcomes"
+D5,operational_deployment,"System used in ongoing real operations","operational context, duration/scale, observed service evidence"
+D6,multi_site_replication,"Comparable operational evidence across independent sites/settings","multiple sites/settings and reproducible evaluation"
