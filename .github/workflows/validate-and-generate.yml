@@ -31,6 +31,9 @@ jobs:
         run: pip install -r requirements.txt
       - name: Validate evidence
         run: python src/validate_evidence.py
+      - name: Validate parameter provenance
+        run: python benchmarks/network_edge/validate_parameter_provenance.py
+
       - name: Generate seed artifacts
         run: python src/generate_seed_artifacts.py
       - name: Upload generated artifacts
