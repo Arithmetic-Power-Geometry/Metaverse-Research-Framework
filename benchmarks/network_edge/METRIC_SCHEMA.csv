@@ -1,0 +1,1 @@
+run_id,scenario_id,method,latency_mean,latency_p95,deadline_violation_rate,successful_delivery_rate,qoe,fairness,energy,energy_efficiency,throughput,compute_utilization,bandwidth_utilization,cache_hit_rate,training_time,inference_time,adaptation_steps,seed,notes
