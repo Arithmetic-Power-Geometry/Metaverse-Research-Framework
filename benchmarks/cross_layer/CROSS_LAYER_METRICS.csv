@@ -1,0 +1,1 @@
+run_id,scenario_id,method_family,method,controlled_layer,latency_e2e,latency_network,latency_compute,reliability,throughput,bandwidth_used,semantic_fidelity,task_success,qoe,rendering_quality,dt_freshness,dt_sync_error,energy_device,energy_edge,compute_cost,inference_time,adaptation_cost,fairness,seed,notes
