@@ -1,0 +1,3 @@
+baseline_id,study_id,modality,task_or_goal,channel_model,primary_metric_family,metaverse_specific,code_status,reproduction_role,notes
+SB001,PSX009,text,semantic text transmission,wireless channel,semantic similarity / sentence-level recovery,no,public-implementation-reported,foundation-baseline,"DeepSC family; verify official repository/version before experiment freeze"
+SB002,PSX010,speech,semantic speech transmission,wireless channel,speech semantic/intelligibility metrics,no,implementation-status-to-audit,foundation-baseline,"Potential speech component for multimodal benchmark"
