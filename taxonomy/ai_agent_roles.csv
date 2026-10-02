@@ -1,0 +1,12 @@
+role_id,role,metaverse_function,typical_methods,primary_outputs,key_evaluation_dimensions
+AI01,perception,"scene/user/environment understanding","CV; multimodal models; representation learning","objects; pose; activity; scene state","accuracy; robustness; latency; compute; privacy"
+AI02,generation,"creation of text/image/audio/3D/world content","generative models; diffusion; LLM; multimodal foundation models","content; scenes; assets; dialogue","quality; controllability; consistency; latency; compute; safety"
+AI03,interaction,"natural-language/multimodal interaction","LLM; speech models; multimodal dialogue","responses; commands; conversational state","task success; response quality; latency; grounding; safety"
+AI04,personalization,"adaptive experience/content/service","recommenders; RL; user modeling","content/service policy","QoE; relevance; fairness; privacy; adaptation"
+AI05,resource_decision,"network/edge/rendering/offloading control","RL; MARL; meta-RL; optimization","resource/action policy","QoE; latency; energy; reliability; convergence"
+AI06,semantic_communication,"task/meaning-aware encoding and recovery","deep semantic communication; foundation models","semantic representation/task output","semantic fidelity; task success; bitrate; compute"
+AI07,digital_twin_intelligence,"prediction/control/synchronization of twins","ML; continual learning; forecasting; RL","state estimate; prediction; control","accuracy; freshness; robustness; latency"
+AI08,autonomous_agent,"persistent goal-directed actor","LLM agent; planning; tool use; multi-agent systems","plans; actions; tool calls; interactions","task success; reliability; safety; cost; coordination"
+AI09,digital_human_avatar,"embodied representation and behavior","animation; generative models; speech; behavior models","appearance; motion; voice; behavior","realism; consistency; latency; identity; privacy"
+AI10,security_defense,"detection/prevention/recovery","ML/DL; anomaly detection; adversarial learning","risk/detection/control action","F1; FAR/FNR; attack success; overhead; robustness"
+AI11,governance_moderation,"content/behavior/policy enforcement","classifiers; LLM; rule+AI systems","moderation/policy decisions","precision/recall; fairness; explainability; appeal/error cost"
