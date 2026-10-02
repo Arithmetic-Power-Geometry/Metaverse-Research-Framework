@@ -1,0 +1,16 @@
+domain,protocol_ready,seed_evidence,primary_extraction,metric_schema,reproducibility_audit,gap_hypotheses,benchmark_blueprint,status
+foundations_definitions,yes,partial,not-started,na,na,partial,na,pending-deep-mining
+network_5g_6g,yes,yes,partial,yes,partial,yes,partial,in-progress
+edge_cloud_resource,yes,yes,partial,yes,partial,yes,yes,in-progress
+xr_streaming_rendering,yes,yes,partial,yes,partial,yes,partial,in-progress
+digital_twins,yes,yes,partial,yes,partial,yes,partial,in-progress
+semantic_communications,yes,yes,partial,yes,partial,yes,partial,in-progress
+security,yes,yes,seed,yes,pending,yes,partial,in-progress
+privacy_identity_trust,yes,yes,seed,yes,pending,yes,partial,in-progress
+interoperability_standards,yes,yes,seed,yes,pending,yes,yes,in-progress
+AI_ML,yes,yes,partial,partial,pending,yes,partial,in-progress
+generative_AI_agents,yes,seed,frontier-mining,yes,pending,yes,partial,in-progress
+sustainability,yes,review-seed,not-started,pending,pending,partial,pending,next
+applications_deployments,yes,review-seed,not-started,pending,pending,partial,na,pending
+datasets_testbeds,yes,partial,not-started,yes,pending,partial,yes,pending
+reproducibility,yes,partial,partial,yes,in-progress,yes,na,in-progress
