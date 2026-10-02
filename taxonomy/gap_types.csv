@@ -1,0 +1,8 @@
+code,name,definition
+GK,Knowledge gap,A materially relevant question for which adequate published investigation was not found
+GE,Evidence gap,A topic with claims or proposals but insufficient empirical validation
+GC,Comparison gap,Competing methods exist without a sufficiently controlled common evaluation
+GX,Cross-layer gap,Mature components or research streams have not been adequately studied together
+GT,Trade-off gap,Competing objectives are recognized but their achievable trade-off boundary remains insufficiently characterized
+GR,Reproducibility gap,Published evidence cannot be adequately reproduced from available artifacts and methodological detail
+GS,Standards/deployment gap,Research assumptions or solutions are insufficiently connected to standards or real deployment constraints
