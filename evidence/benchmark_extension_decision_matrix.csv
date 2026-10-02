@@ -1,0 +1,8 @@
+candidate_extension,scientific_need,evidence_status,existing_2024_coverage,required_baselines,required_metrics,decision
+"multi-objective XR edge allocation","rich newer formulations exist",supported,partial_or_unresolved,"2024 benchmark representatives plus PNE011 PNE016 PNE017 families","latency; QoE; energy; visual quality; utilization",hold
+"FL-aware Metaverse allocation","PNE011 and PNE015 introduce learning quality and distributed training",supported,unresolved,"optimization plus RL or FRL","latency; energy; accuracy; communication cost",hold
+"safe MTP-constrained allocation","PNE017 introduces explicit safety and queue constraint",supported,unresolved,"standard RL plus safe RL plus optimization","MTP violation; age; power; QoE; convergence",high_priority_if_not_covered
+"anti-jamming allocation","PNE012 introduces adversarial wireless condition",supported,unresolved,"non-adversarial RL plus robust or anti-jamming RL","latency; energy; QoE; disruption metrics",hold
+"O-RAN slicing","PNE015 maps Metaverse QoE to distributed xAPP decisions",supported,unresolved,"central RL plus distributed or FRL","QoE; energy efficiency; video quality; communication and compute delay",hold
+"dynamic GPU CPU bandwidth leasing","PNE016 models multidimensional resource leasing",supported,unresolved,"static allocation plus auction or MARL","QoE; delay; visual quality; utilization; cost",high_priority_if_not_covered
+"cross-paper reproducibility normalization","current studies use heterogeneous models and metrics",candidate,unresolved,"representative families","normalized metric definitions plus scenario metadata",audit_first
