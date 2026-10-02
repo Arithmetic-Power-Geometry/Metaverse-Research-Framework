@@ -1,0 +1,10 @@
+study_id,latency_or_completion_time,energy_or_power,QoE_or_user_experience,visual_quality,accuracy_or_learning_quality,reliability_or_risk,fairness_or_balance,resource_utilization,MTP_or_age,security_adversarial,economic_utility,training_convergence
+PNE011,yes,yes,partial,partial,yes,no,no,no,no,no,no,partial
+PNE012,yes,yes,yes,partial,no,yes,no,partial,no,yes,no,partial
+PNE013,partial,partial,partial,no,no,no,yes,partial,no,no,yes,no
+PNE014,partial,partial,yes,no,no,no,yes,yes,no,no,no,partial
+PNE015,yes,yes,yes,yes,partial,partial,partial,partial,no,no,no,yes
+PNE016,yes,partial,yes,yes,no,partial,partial,yes,no,no,yes,yes
+PNE017,yes,yes,yes,yes,no,partial,partial,yes,yes,no,no,yes
+PNE018,yes,partial,yes,partial,no,partial,partial,partial,no,no,no,yes
+PNE019,partial,partial,partial,no,no,partial,partial,yes,no,no,yes,no
