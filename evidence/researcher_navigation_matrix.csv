@@ -1,0 +1,10 @@
+research_question,look_up_first,then_inspect,comparison_output,gap_output
+"What algorithms solve my problem?","problem family","algorithm family; objective; constraints; evidence","baseline/method matrix","missing or weakly compared methods"
+"What dataset or workload should I use?","problem family","public datasets; traces; synthetic generators; licenses","resource inventory","dataset/testbed gap"
+"What metrics should I report?","problem family","formal metric definitions; layers; units","metric normalization table","metric-coverage gap"
+"What baselines are defensible?","problem definition","closest algorithms with compatible assumptions","comparability matrix","baseline gap"
+"Can I reproduce prior work?","study/algorithm","code; data; config; environment; seeds","reproducibility matrix","artifact gap"
+"Has this been deployed?","capability/application","D0-D6 evidence; scale; duration","deployment maturity table","deployment gap"
+"Is it sustainable?","method/system","system boundary; energy/carbon/material/social evidence","sustainability trade-off table","measurement/boundary gap"
+"Is it interoperable?","object/state","identity; rights; semantics; behavior; provenance","preservation/cost vectors","interoperability gap"
+"What could become a new algorithm?","validated gap","problem; baselines; benchmark; measurable failure","benchmark specification","experimentally testable algorithmic opportunity"
