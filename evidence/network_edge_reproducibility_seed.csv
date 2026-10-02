@@ -1,0 +1,10 @@
+study_id,code_search_status,public_code_found,data_status,environment_status,reproduction_priority,evidence_notes
+PNE001,initial-search,no-confirmed-study-repository,unknown,unknown,high,"No study-specific public implementation confirmed in initial search; requires author/project/repository follow-up"
+PNE002,initial-search,no-confirmed-study-repository,unknown,unknown,medium,"Conference paper and preprint identified; study-specific implementation not confirmed"
+PNE003,initial-search,not-yet-audited,unknown,unknown,medium,"Audit pending"
+PNE004,initial-search,not-yet-audited,unknown,unknown,medium,"Concept/case-study bridge; reproduction value depends on implementation detail"
+PNE005,initial-search,no-confirmed-study-repository,unknown,unknown,very-high,"Paper defines CDDPG/PER-CDDPG/FPER-CDDPG and benchmarks; Papers With Code search reports no implementation. Strong candidate for independent reconstruction if full method/environment is sufficiently specified"
+PNE006,initial-search,no-confirmed-study-repository,unknown,unknown,high,"Enhanced whale-optimization baseline may be independently implementable if full parameterization is recoverable"
+PNE007,initial-search,no-confirmed-study-repository,simulated-trajectory-data-described,simulation-configuration-described,high,"A general GNN-for-communications repository indexes the paper but initial search did not establish that it contains this study's code; paper describes 81 subscenes and simulated trajectories"
+PNE008,initial-search,no-confirmed-study-repository,unknown,unknown,very-high,"2026 TMC frontier study; full extraction and artifact search required"
+PNE009,preprint-frontier,not-yet-audited,unknown,unknown,frontier-only,"Do not prioritize reproduction until publication/artifact status is clarified"
