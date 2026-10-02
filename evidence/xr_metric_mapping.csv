@@ -1,0 +1,8 @@
+metric_family,network_interpretation,edge_interpretation,xr_interpretation,semantic_interpretation,dt_interpretation
+latency,transmission/queue delay,compute/offload delay,motion-to-photon or delivery delay,encoder-decoder plus transmission delay,update staleness contribution
+reliability,timely successful packet/service delivery,successful task execution,successful immersive delivery,semantic/task recovery robustness,successful synchronized update
+rate_bandwidth,spectral/resource use,communication allocation,visual content delivery capacity,representation transmission cost,update traffic cost
+quality,network service quality,resource-dependent service quality,visual fidelity/QoE,semantic fidelity/task utility,twin fidelity
+energy,radio energy,edge/device compute energy,rendering/device energy,model inference/training energy,sensing/update/compute energy
+freshness,network age contribution,queue/compute age contribution,scene state recency,semantic state recency,direct DT age/synchronization measure
+adaptation,mobility/channel adaptation,load/task adaptation,viewport/scene/user adaptation,domain/task/channel adaptation,physical-process/update adaptation
