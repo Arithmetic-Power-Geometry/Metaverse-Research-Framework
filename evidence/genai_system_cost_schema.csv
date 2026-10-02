@@ -1,0 +1,1 @@
+study_id,model_family,modality,task,execution_location,model_size_or_class,input_size,output_size,quality_metric,task_metric,inference_latency,first_token_or_first_output_latency,throughput,device_compute,edge_compute,cloud_compute,memory_use,network_traffic,energy,adaptation_or_finetuning_cost,qoe_metric,notes
