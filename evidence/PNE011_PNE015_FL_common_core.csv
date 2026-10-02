@@ -1,0 +1,15 @@
+field,PNE011,PNE015,common_core,status
+problem,"FL resource allocation for Metaverse with mobile AR","federated RL resource allocation in O-RAN slicing for Metaverse","distributed learning plus communication/computation resource allocation",supported
+learning_structure,"federated learning","federated reinforcement learning","distributed/federated learning",supported
+wireless_resources,"bandwidth and power","power and PRBs","wireless resource allocation",supported
+compute_resources,"CPU","communication/computation resources","compute-resource coupling",supported
+experience_dimension,"video resolution/service quality","QoE and video quality","experience-aware allocation",supported
+learning_metric,"model accuracy","learning/control performance implicit","learning quality/performance",partial
+latency_metric,"completion time","communication and computation delay","delay",supported
+energy_metric,"energy","energy efficiency","energy or efficiency",supported
+decision_method,"optimization/decomposition","FRL","different algorithm families on related system problem",supported
+exact_equations,"requires extraction","requires extraction","",unresolved
+exact_parameter_tables,"requires extraction","requires extraction","",unresolved
+baseline_list,"requires extraction","requires extraction","",unresolved
+public_code,"not confirmed","not confirmed","",unresolved
+common_benchmark_feasibility,"","","conditional",candidate
