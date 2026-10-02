@@ -50,3 +50,34 @@ files=sorted(p.name for p in OUT.iterdir() if p.is_file() and p.name!="MANIFEST.
 manifest=["# Generated Seed Artifacts","","These outputs use an incomplete seed evidence set and must not be interpreted as field-wide quantitative results.",""]+[f"- `{x}`" for x in files]
 (OUT/"MANIFEST.md").write_text("\n".join(manifest)+"\n",encoding="utf-8")
 print("Generated seed artifacts.")
+
+
+# Additional seed diagnostics: descriptive only, never field-wide prevalence.
+cap = pd.read_csv(ROOT/"evidence/capability_evidence_matrix_seed.csv").set_index("capability")
+status_map = {"yes":1.0,"partial":0.5,"limited-in-seed":0.25,"limited":0.25,"no":0.0}
+cols=["foundational_concepts","peer_reviewed_methods","algorithmic_methods","public_datasets_or_workloads","public_code","reproducible_benchmarks","standards_or_specs","cross_layer_evaluation"]
+num = cap[cols].applymap(lambda x: status_map.get(str(x).strip().lower(), float("nan")))
+fig,ax=plt.subplots(figsize=(11,6))
+im=ax.imshow(num.values,aspect="auto",vmin=0,vmax=1)
+ax.set_xticks(range(len(cols)),[x.replace("_"," ") for x in cols],rotation=45,ha="right",fontsize=8)
+ax.set_yticks(range(len(num.index)),[x.replace("_"," ") for x in num.index],fontsize=8)
+ax.set_title("Capability x Evidence Audit Status (Seed; Descriptive Only)")
+fig.colorbar(im,ax=ax,label="coded audit status: no=0, partial=.5, yes=1")
+fig.tight_layout()
+fig.savefig(OUT/"capability_evidence_seed_heatmap.png",dpi=220,bbox_inches="tight")
+fig.savefig(OUT/"capability_evidence_seed_heatmap.pdf",bbox_inches="tight")
+plt.close(fig)
+
+dep = pd.read_csv(ROOT/"taxonomy/deployment_evidence_levels.csv")
+dep.to_csv(OUT/"deployment_evidence_scale.csv",index=False)
+
+repro = pd.read_csv(ROOT/"evidence/network_edge_reproducibility_seed.csv")
+repro.to_csv(OUT/"network_edge_reproducibility_seed.csv",index=False)
+
+domain = pd.read_csv(ROOT/"evidence/domain_coverage_status.csv")
+domain.to_csv(OUT/"domain_coverage_seed.csv",index=False)
+
+# Refresh manifest after all diagnostics.
+files=sorted(p.name for p in OUT.iterdir() if p.is_file() and p.name!="MANIFEST.md")
+manifest=["# Generated Seed Artifacts","","These outputs use an incomplete seed evidence set and must not be interpreted as field-wide quantitative results.","","The capability heatmap encodes audit status for navigation; it is not a quality score or maturity ranking.",""]+[f"- `{x}`" for x in files]
+(OUT/"MANIFEST.md").write_text("\n".join(manifest)+"\n",encoding="utf-8")
