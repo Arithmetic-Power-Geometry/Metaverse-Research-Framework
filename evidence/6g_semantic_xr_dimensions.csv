@@ -1,0 +1,19 @@
+dimension,description,benchmark_relevance
+motion_to_photon_latency,End-to-end delay from user motion/input to rendered response,critical
+uplink_latency,Sensor/control/avatar uplink delay,high
+downlink_latency,Rendered/content downlink delay,high
+reliability,Probability of successful timely delivery,critical
+throughput,Delivered data rate,high
+bandwidth_efficiency,Utility or data delivery per spectrum/bandwidth,high
+qoe,User-perceived experience or modeled QoE,critical
+rendering_quality,Visual fidelity/resolution/viewport quality,critical
+semantic_fidelity,Preservation of task-relevant meaning rather than bit identity,critical-for-semantic
+task_success,Application/task utility after communication,critical-for-semantic
+energy,Device/edge/network energy cost,high
+compute_cost,Training/inference/rendering compute demand,high
+adaptation_cost,Cost to adapt under mobility/channel/content/task shift,high
+fairness,Experience distribution across users,high
+synchronization_freshness,Age/error of physical-virtual/digital-twin state,high
+communication_overhead,Control/model/semantic side-information overhead,high
+scalability,Behavior as users/scenes/devices grow,critical
+robustness,Behavior under channel/mobility/distribution perturbations,critical
