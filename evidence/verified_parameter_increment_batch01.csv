@@ -1,0 +1,13 @@
+study_id,parameter,value,unit,status,source_evidence,interpretation
+PNE017,FPS,100,frames_per_second,verified,"public full-text context associated with arXiv 2407.20523","Example timing configuration reported with tau=10 ms"
+PNE017,slot_duration_tau,10,ms,verified,"public full-text context associated with arXiv 2407.20523","tau=1/F for 100 FPS"
+PNE017,MTP_threshold,20,ms,verified,"public full-text context associated with arXiv 2407.20523","example reports tau as half of T_MTP"
+PNE017,background_prediction_window_L,5,slots,verified,"public full-text figure context associated with arXiv 2407.20523","illustrative workflow setting; do not assume universal experiment default"
+PNE017,primary_objective,"sensor-information age + mobile-device power",text,verified,"IEEE abstract","optimized subject to MTP constraint"
+PNE017,algorithm,"AQM-CUP",text,verified,"IEEE abstract","safe RL with active queue management and constrained updated projection"
+PNE017,queue_handling,"expired tiles actively discarded",text,verified,"IEEE abstract","discarded tiles enter state/reward design"
+PNE016,resource_dimensions,"GPU; CPU; outbound bandwidth",text,verified,"IEEE abstract","multidimensional leased rendering resources"
+PNE016,QoE_metric,"EdgeVRQoE",text,verified,"IEEE abstract","combines rendering delay and visual quality"
+PNE016,decision_structure,"double-layer decision problem",text,verified,"IEEE abstract","resource leasing between Planets and users"
+PNE016,algorithm_family,"hybrid-action multi-agent RL dynamic resource auction",text,verified,"IEEE abstract","distributed adaptive allocation"
+PNE016,reported_QoE_improvement,">=18-fold",relative,verified,"IEEE abstract","reported versus representative schemes; not transferable to our benchmark"
