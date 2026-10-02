@@ -1,0 +1,47 @@
+benchmark:
+  name: immersive-edge-resource-benchmark
+  status: design-only
+  provenance: evidence/PNE016_PNE017_compatibility.csv
+
+core:
+  users: null
+  workload:
+    arrival_model: null
+    rendering_quality_levels: null
+  wireless:
+    bandwidth_hz: null
+    channel_model: null
+  compute:
+    edge_cpu_cycles_per_s: null
+    device_cpu_cycles_per_s: null
+  metrics:
+    latency_ms: true
+    latency_violation_probability: true
+    visual_quality: true
+    resource_utilization: true
+    energy_or_power: optional
+    qoe_components_separate: true
+
+modules:
+  leasing:
+    enabled: false
+    gpu_capacity: null
+    resource_prices: null
+    economic_metrics: null
+  safety_queue:
+    enabled: false
+    queue_model: null
+    mtp_threshold_ms: null
+    information_age_metric: null
+
+reproducibility:
+  seeds: []
+  repetitions: null
+  environment_lock: required
+  raw_results: required
+  statistical_summary: required
+
+guardrails:
+  aggregate_score_required: false
+  missing_parameter_policy: fail
+  unverified_source_values_allowed: false
