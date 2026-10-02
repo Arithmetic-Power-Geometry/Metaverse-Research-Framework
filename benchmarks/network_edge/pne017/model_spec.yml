@@ -1,0 +1,47 @@
+study_id: PNE017
+title: Wireless Multi-User Interactive Virtual Reality in Metaverse With Edge-Device Collaborative Computing
+doi: 10.1109/TWC.2025.3551938
+model_status: reconstruction-in-progress
+architecture:
+  users: multi-user
+  compute: edge-device collaborative
+  rendering:
+    foreground_background_separation: true
+    foreground_queue: true
+    background_queue: true
+    background_prediction_window: true
+  queue_management:
+    expired_tile_discarding: true
+objective:
+  direction: minimize
+  components:
+    - sensor_information_age
+    - mobile_device_power
+  exact_weighting: unresolved
+constraint:
+  motion_to_photon:
+    type: safety
+    threshold_ms: 20
+    provenance: verified-public-full-text-context
+timing:
+  fps: 100
+  slot_duration_ms: 10
+  prediction_window_slots: 5
+  prediction_window_status: illustrative-setting
+decisions:
+  rendering_decisions: true
+  mec_resource_allocation: true
+  exact_action_encoding: unresolved
+algorithm:
+  name: AQM-CUP
+  expansion: Active Queue Management-Constrained Updated Projection
+  family: safe_reinforcement_learning
+  cmdp_structure: true
+metrics:
+  - sensor_information_age
+  - mobile_device_power
+  - mtp_constraint_or_violation
+  - training_convergence
+guardrails:
+  guessed_coefficients: false
+  executable_fidelity: blocked_until_required_equations_resolved
