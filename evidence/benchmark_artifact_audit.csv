@@ -1,0 +1,11 @@
+study_id,official_code_url,code_found,public_data_or_trace,environment_file,dependency_lock,seeds_reported,config_public,container_or_image,workflow_ci,independent_reproduction,artifact_audit_status,notes
+PNE005,,not-confirmed,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,pending,"Targeted artifact search required"
+PNE006,,not-confirmed,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,pending,"Targeted artifact search required"
+PNE011,,not-audited,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,pending,"High-priority due to explicit multi-objective formulation"
+PNE012,,not-audited,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,pending,"High-priority security/resource comparator"
+PNE014,,not-audited,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,pending,"Check publication status first"
+PNE015,,not-audited,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,pending,"O-RAN/FRL candidate"
+PNE016,,not-audited,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,pending,"GPU/CPU/bandwidth leasing candidate"
+PNE017,,not-audited,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,pending,"Safe-RL/MTP candidate"
+PNE018,,not-audited,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,pending,"Verify metadata then audit"
+PNE019,,not-audited,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,pending,"Mechanism-design candidate"
