@@ -1,0 +1,10 @@
+level,name,description
+E0,Concept,Position vision conceptual argument or qualitative proposal
+E1,Architecture/Model,System architecture analytical model or formal framework
+E2,Algorithm/Method,Specified computational algorithm or method without stronger empirical evidence
+E3,Simulation,Evaluation primarily through simulation
+E4,Prototype/Testbed,Implemented prototype or controlled testbed evidence
+E5,Dataset Evaluation,Empirical evaluation using public or curated datasets
+E6,Deployment,Operational or real-world deployment evidence
+E7,Independent Reproduction,Results reproduced by an independent implementation or study
+E8,Cross-system Benchmark,Normalized benchmark enabling controlled comparison across systems or methods
