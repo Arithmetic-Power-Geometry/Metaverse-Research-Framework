@@ -1,0 +1,11 @@
+dimension,scope,example_measures,caution
+SUS01,device_energy,"J/task; W; battery drain; energy/session","Do not infer carbon from energy without electricity/carbon assumptions"
+SUS02,edge_cloud_energy,"server/GPU/CPU energy; utilization; PUE-aware energy","Report measurement/model source"
+SUS03,network_energy,"radio/access/core/data-transfer energy","Traffic reduction does not automatically imply proportional energy reduction"
+SUS04,embodied_hardware,"device/server/network manufacturing footprint; lifetime","Often outside algorithm experiments; separate LCA evidence"
+SUS05,carbon_operational,"gCO2e/task; gCO2e/session; regional carbon intensity","Requires time/location/electricity assumptions"
+SUS06,carbon_embodied,"manufacturing/transport/end-of-life CO2e","Requires lifecycle boundary"
+SUS07,water_materials,"water use; critical materials; e-waste","Avoid collapsing into energy metric"
+SUS08,social_sustainability,"accessibility; inclusion; wellbeing; labor impacts","Requires appropriate human/social evidence"
+SUS09,economic_sustainability,"cost; affordability; infrastructure viability","Distinguish provider cost from user affordability"
+SUS10,rebound_effect,"usage growth induced by efficiency/availability","Requires system-level or longitudinal evidence"
