@@ -1,0 +1,8 @@
+candidate_id,benchmark_family,representative_studies,problem_spec,metrics,scenario_parameters,baselines,artifact_support,equation_completeness,cross_paper_comparability,current_readiness,next_gate
+BR01,"immersive VR edge resource allocation","PNE005;PNE011;PNE016;PNE017",high,high,partial,partial,unresolved,partial,high,blocked_source_recovery,"recover exact equations and baseline configurations"
+BR02,"safe MTP-constrained interactive VR","PNE017",high,high,partial,unresolved,not_confirmed,partial,medium,blocked_source_recovery,"resolve SR01-SR18"
+BR03,"dynamic GPU CPU bandwidth leasing","PNE016",high,high,partial,unresolved,not_confirmed,partial,medium,blocked_source_recovery,"recover equations baseline list and parameter table"
+BR04,"federated-learning-aware allocation","PNE011;PNE015",high,high,partial,partial,unresolved,partial,medium,candidate,"audit public specifications and reconstruct common learning/network cost model"
+BR05,"anti-jamming resource allocation","PNE012",high,high,partial,unresolved,unresolved,partial,low_medium,candidate,"extract adversarial/channel model and baselines"
+BR06,"O-RAN slicing for Metaverse","PNE015",high,high,partial,unresolved,unresolved,partial,low_medium,candidate,"extract slice xAPP action model and public implementation status"
+BR07,"cross-paper reproducibility normalization","REV_RESOURCE_2024;PNE011;PNE012;PNE015;PNE016;PNE017",high,high,partial,partial,unresolved,partial,high,audit_first,"complete 2024 benchmark and artifact audit"
