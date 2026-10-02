@@ -1,0 +1,13 @@
+eq_id,concept,mathematical_role,status,verified_content,missing_for_implementation
+E01,"foreground/background task execution","queue dynamics",partial,"serial-parallel queue execution is explicit","exact arrival/service/update equations"
+E02,"background prediction window","rendering workload generation",partial,"background rendering indices selected within prediction window","exact index/prediction rule"
+E03,"sensor information age","objective component",partial,"minimized as QoE/freshness component","exact definition and update equation"
+E04,"mobile-device power","objective component",partial,"jointly minimized with information age","exact power equation and coefficients"
+E05,"MTP latency","safety constraint",partial,"20 ms threshold verified for documented configuration","complete latency decomposition"
+E06,"optimization objective","long-run constrained optimization",partial,"information age plus weighted device power under MTP constraint","exact weighting coefficient and normalization"
+E07,"CMDP state","safe-RL state",partial,"includes queue/environment information and expired tiles","complete state vector"
+E08,"CMDP action","safe-RL action",partial,"rendering decisions and MEC resource allocation","complete action encoding and bounds"
+E09,"reward","RL objective",partial,"constructed from optimization objective","exact sign/scaling"
+E10,"cost/safety signal","constraint handling",partial,"represents MTP safety requirement","exact cost function/budget"
+E11,"AQM expired-tile rule","active queue management",partial,"expired tiles are actively discarded and incorporated into state/reward","exact expiration condition and transition"
+E12,"CUP update","safe policy update",unresolved,"constrained updated projection named by paper","full update equations and hyperparameters"
