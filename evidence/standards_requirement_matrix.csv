@@ -1,0 +1,4 @@
+standard_or_body,requirement_area,identity,avatar,asset,world,digital_twin,ai_agent,network,edge_cloud,security,privacy,semantics,provenance,timing_qos,governance,academic_metric_mapping,status,notes
+IEEE_P2048_family,terminology_taxonomy_and_metaverse_standards_context,partial,partial,partial,partial,partial,partial,partial,partial,partial,partial,partial,partial,partial,partial,to-be-mapped,active-family,"Exact published/project documents must be verified individually"
+ITU_T_Y4240,physical_virtual_interoperability_via_digital_twins,partial,no,no,partial,yes,partial,partial,partial,partial,partial,yes,partial,yes,partial,to-be-mapped,in-force,"Use as DT interoperability anchor"
+Metaverse_Standards_Forum,cross-industry_interoperability_coordination,partial,partial,partial,partial,partial,partial,partial,partial,partial,partial,partial,partial,partial,partial,to-be-mapped,active,"Populate only from published domain outputs"
