@@ -1,0 +1,12 @@
+layer,object,security_privacy_question,interoperability_question,example_evidence
+identity,user/device/agent,"Who is authenticated; what credentials are exposed; can identity be linked across contexts?","Can identity/credentials be recognized across domains without unsafe over-linking?","authentication; SSI; credential standards"
+avatar,embodied digital representation,"Can avatar state/behavior be impersonated, manipulated, or used for inference?","Which avatar properties survive migration and retain semantics?","avatar schemas; behavioral security"
+asset,virtual object/content/ownership,"Can ownership/provenance/access rights be forged or lost?","Can assets move while preserving format, rights, provenance, and behavior?","asset formats; provenance; rights"
+world,scene/environment,"Can malicious content/state changes affect users or systems?","Can scenes/world state be represented and transferred consistently?","scene formats; world models"
+interaction,voice/gaze/gesture/haptics,"Can continuous interaction streams reveal sensitive attributes or be spoofed?","Can interaction semantics be preserved across devices/worlds?","XR telemetry; interaction models"
+digital_twin,physical-virtual state,"Can false/stale updates corrupt decisions or expose physical data?","Can state, semantics, timing, and provenance survive cross-system exchange?","DT synchronization; Y.4240"
+ai_agent,autonomous/intelligent actor,"Can agents manipulate, impersonate, leak data, or violate policy?","Can capabilities, identity, memory, and permissions transfer safely?","agent identity; policy; model provenance"
+network,transport/service,"Can traffic be intercepted, disrupted, profiled, or manipulated?","Can QoS/security properties survive cross-domain paths?","5G/6G security; service-level controls"
+edge_cloud,compute/storage,"Can workloads/data/models be compromised across trust domains?","Can services migrate while preserving state and policy?","confidential computing; orchestration"
+economy,transactions/tokens/rights,"Can transactions/ownership be forged, stolen, or deanonymized?","Can value/rights be recognized across platforms/chains?","blockchain; wallets; rights models"
+governance,policy/jurisdiction,"Who controls consent, moderation, audit, and redress?","How are policies reconciled across organizations/jurisdictions?","governance frameworks; compliance"
