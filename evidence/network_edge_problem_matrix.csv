@@ -1,0 +1,16 @@
+dimension,PNE001,PNE002,PNE004,PNE005,PNE006,PNE007,PNE008,PNE009
+wireless_resource_allocation,yes,yes,partial,yes,partial,partial,yes,yes
+computation_offloading,partial,yes,partial,partial,yes,no,yes,yes
+bandwidth_or_channel_allocation,yes,yes,partial,yes,partial,partial,yes,yes
+digital_twin_sync,no,no,yes,yes,no,no,partial,yes
+time_varying_environment,yes,partial,yes,yes,partial,yes,yes,yes
+QoE_explicit,partial,yes,yes,yes,yes,partial,yes,partial
+latency_explicit,yes,partial,partial,yes,yes,yes,yes,yes
+reliability_explicit,yes,partial,partial,partial,partial,partial,partial,partial
+energy_explicit,partial,partial,partial,partial,yes,partial,partial,yes
+caching,no,no,no,no,no,yes,no,no
+trajectory_or_popularity_prediction,no,no,no,no,no,yes,no,no
+heterogeneous_task_types,partial,partial,partial,partial,yes,yes,yes,yes
+joint_user_association,no,no,no,no,no,no,partial,yes
+multi_agent_or_game_model,partial,no,no,no,no,partial,partial,yes
+peer_reviewed,yes,yes,yes,yes,yes,yes,yes,no
