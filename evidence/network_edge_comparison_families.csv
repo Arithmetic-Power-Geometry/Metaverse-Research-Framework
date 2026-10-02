@@ -1,0 +1,6 @@
+family_id,problem_family,candidate_studies,common_core,major_noncomparable_dimensions,reproduction_priority
+CF01,"MEC resource allocation for immersive XR","PNE005;PNE006;PNE011;PNE016;PNE017","edge compute + communication resources + immersive workload","DT desynchronization; FL training; auction/leasing; queue/MTP constraints; objectives","very-high"
+CF02,"RL-based wireless/resource control","PNE001;PNE012;PNE015;PNE017","dynamic wireless/resource decision under QoE/latency constraints","jamming; O-RAN slicing; queue safety; action spaces","very-high"
+CF03,"multi-agent resource allocation","PNE014;PNE015;PNE016;PNE018","multiple users/agents sharing constrained resources","GCN state model; federated learning; hybrid auction actions; aerial topology","high"
+CF04,"economic/mechanism resource allocation","PNE013;PNE016;PNE019","scarce resources allocated among strategic/requesting entities","double auction; bargaining; MARL auction; truthful online mechanism; utility definitions","high"
+CF05,"rendering-aware allocation","PNE005;PNE006;PNE012;PNE016;PNE017","rendering quality/resolution coupled to network/compute resources","360 FoV; DT updates; anti-jamming; pre-rendering; foreground/background queues","very-high"
