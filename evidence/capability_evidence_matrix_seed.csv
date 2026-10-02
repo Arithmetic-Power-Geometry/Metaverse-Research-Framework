@@ -1,0 +1,11 @@
+capability,foundational_concepts,peer_reviewed_methods,algorithmic_methods,public_datasets_or_workloads,public_code,reproducible_benchmarks,standards_or_specs,cross_layer_evaluation,current_assessment
+network_architecture,yes,yes,yes,partial,partial,partial,yes,partial,active-evidence
+edge_resource_management,yes,yes,yes,partial,limited-in-seed,partial,partial,partial,strong-method-density
+xr_streaming_rendering,yes,yes,yes,partial,partial,partial,partial,partial,strong-but-fragmented
+semantic_communication,yes,yes,yes,yes-foundational,yes-foundational,partial,partial,limited,metaverse-specific-evidence-expanding
+digital_twin_sync,yes,yes,yes,partial,partial,limited,yes,partial,cross-layer-bridge
+security,yes,yes,yes,partial,partial,partial,yes,partial,strong-siloed-literature
+privacy_identity_trust,yes,yes,yes,partial,partial,partial,yes,limited,interoperability-tension-to-test
+interoperability,yes,yes,partial,limited,limited,limited,yes,limited,high-priority-evidence-gap-test
+sustainability,yes,yes,partial,partial,partial,limited,partial,limited,fragmented-review-evidence
+reproducibility,partial,partial,partial,partial,limited,limited,no,limited,high-priority-audit
