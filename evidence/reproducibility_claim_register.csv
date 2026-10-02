@@ -1,0 +1,6 @@
+claim_id,claim,status,supporting_evidence,contrary_evidence,allowed_wording,forbidden_wording
+RC01,"Metaverse resource-allocation literature contains comparative algorithm benchmarking",supported,"REV_RESOURCE_2024: 19 algorithms benchmarked","","At least one substantial published cross-algorithm benchmark exists","There are no benchmarks"
+RC02,"Newer Metaverse resource-allocation formulations are multi-objective",supported,"PNE011;PNE012;PNE015;PNE016;PNE017","","Recent studies jointly evaluate multiple system/experience objectives","Existing methods optimize only latency"
+RC03,"Public reusable benchmark infrastructure is insufficient for newer formulations",unresolved,"artifact audit in progress","REV_RESOURCE_2024 may provide reusable infrastructure; must verify","Artifact-level reuse remains under audit","No reusable benchmark exists"
+RC04,"Most high-priority studies lack public code",unresolved,"initial searches have not confirmed repositories","","Public-code availability remains under targeted audit","Most authors do not release code"
+RC05,"Independent reproduction is rare",unresolved,"no confirmed independent reproduction in current seed","","Independent-reproduction evidence has not yet been established in the audited seed","The field is irreproducible"
