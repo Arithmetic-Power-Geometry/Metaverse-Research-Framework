@@ -38,3 +38,5 @@ T13,table,Artifact reproducibility eight-field rubric,ready,RUN16,Reproducibilit
 T14,table,Artifact reproducibility R0-R4 classes,ready,RUN16,Reproducibility methods
 D10,data,Reproducibility audit batches 01-02,active,RUN16,Artifact audit
 R16A,review,RUN16 batch 01 adversarial review,ready,RUN16,Reproducibility quality gate
+T15,table,FL reconstruction comparability matrix,ready,RUN17,FL benchmark gate
+R17A,review,RUN17 batch 01 adversarial review,ready,RUN17,FL reconstruction gate
