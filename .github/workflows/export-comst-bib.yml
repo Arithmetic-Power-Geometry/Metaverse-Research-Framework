@@ -1,4 +1,4 @@
-name: Export COMST bibliography
+name: Export COMST source assets
 on:
   push:
     paths:
@@ -9,11 +9,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Stage bibliography
+      - name: Stage source assets
         run: |
-          mkdir -p export
+          mkdir -p export/source_assets
           cp paper_ready_results/metaverse_comst_master.bib export/metaverse_comst_master.bib
+          cp -R paper_ready_results/figures export/source_assets/figures
+          cp -R paper_ready_results/tables export/source_assets/tables
+          cp -R paper_ready_results/algorithms export/source_assets/algorithms
       - uses: actions/upload-artifact@v4
         with:
-          name: comst-master-bibliography
-          path: export/metaverse_comst_master.bib
+          name: comst-source-assets
+          path: export/
