@@ -1,0 +1,7 @@
+record_id,resource_type,domain,availability_or_role,reproducibility_value,current_status
+DATA001,"public dataset","semantic/change-aware interaction","VL-CMU-CD used for change-aware semantic interpretation","supports repeatable dataset-backed evaluation","VERIFY_ARTIFACT_DETAILS"
+DATA002,"benchmark suite","XR/Metaverse ML","XRBench tasks/models/scenarios plus archived plot data","high-value benchmark/reproducibility precedent","VERIFIED_PRECEDENT"
+DATA003,"benchmark suite","holistic Metaverse systems","MetaverseBench challenge instantiation/benchmarking","high-value systems benchmark precedent","BIB_METADATA_QUARANTINED"
+DATA004,"platform","simulation/synthetic data","NVIDIA Omniverse reviewed for data generation simulation and Metaverse","candidate platform/testbed layer","VERIFY_VERSION_AND_PUBLIC_ARTIFACTS"
+DATA005,"primary-study data","LLM cloud-edge orchestration","code reportedly available; data not public at publication","partial reproducibility only","AUDIT_PENDING"
+DATA006,"review corpus","AI-Metaverse","2026 AI review explicitly discusses public datasets/reproducibility","dataset inventory novelty occupied","VERIFIED_REVIEW"
