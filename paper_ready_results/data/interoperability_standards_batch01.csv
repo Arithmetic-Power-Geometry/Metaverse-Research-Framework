@@ -1,0 +1,8 @@
+evidence_id,year,type,scope,status,evidence_implication,bibkey_or_standard
+INT001,2025,"systematic review","74 publications; technological data human institutional interoperability","published IEEE EMR","interoperability systematic framing occupied",Yang2025Interoperability
+INT002,2023,"IEEE standard","identity framework across Metaverse systems","active standard","cross-system identity has normative requirements",IEEE3812_1_2023
+INT003,2025,"ITU-T recommendation","DT/Metaverse integration reference model","in force","virtual-physical integration has normative reference model",ITUTY4239_2025
+INT004,2025,"ITU-T recommendation","MII/DII/SII interfaces and reference points","in force","DT/service interoperability has defined interfaces",ITUTY4240_2025
+INT005,2025,"ITU-T recommendation","avatar asset content identity cross-platform interoperability","approved","four interoperability classes have high-level requirements",ITUTH770_1_2025
+INT006,2026,"ITU-T recommendation","high-level cross-platform Metaverse interoperability architecture","in force/prepublished","architecture-level standardization exists",ITUTH770_2_2026
+INT007,2026,"ITU-T work item","digital asset interoperability architecture/information flows","under study","distinguish evolving work from approved standards",NOT_FINAL_STANDARD
