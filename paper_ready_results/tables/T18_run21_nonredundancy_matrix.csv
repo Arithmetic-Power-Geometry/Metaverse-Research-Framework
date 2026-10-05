@@ -1,0 +1,6 @@
+feature,closest_prior,occupied_contribution,our_allowed_position
+communications_networking,"Ali et al. 2024 COMST","communications networking security applications research issues and directions","operational cross-paper evidence/comparability audit"
+edge_enabled_metaverse,"Xu et al. 2023 COMST; Lim et al. 2023 WCM; Xu et al. 2023 IEEE Network","edge architecture enabling technologies challenges","evidence maturity + matched comparability + artifact audit"
+security_privacy,"Wang et al. 2023 COMST; Di Pietro & Cresci 2021","security/privacy threats countermeasures open issues","threat/evaluation evidence and deployment/standards maturity"
+blockchain_ai,"Yang et al. 2022 OJCS; Huynh-The et al. 2023 FGCS","blockchain-AI fusion and blockchain technical perspectives","do not claim integration taxonomy novelty"
+qoe_resource,"Du et al. 2023 JSAC; Du et al. 2023 IEEE Network","Meta-Immersion attention-aware allocation consumer/economic QoE","preserve metric definitions; test cross-paper comparability before ranking"
