@@ -9,3 +9,6 @@ PNE015,"FRL O-RAN slicing for Metaverse",0,0,0,0,0,0,0,0,0,R0,PENDING,"artifact 
 
 PNE016,"QoE-oriented cooperative VR rendering and dynamic resource leasing",0,0,0,0,0,0,0,0,0,R0,AUDITED_NO_ARTIFACT_IDENTIFIED,"IEEE final record verifies extensive simulations and method; reusable code/data/config artifact not identified in current audited sources"
 PNE017,"wireless multi-user interactive VR with edge-device collaborative computing",0,0,0,0,0,0,0,0,0,R0,AUDITED_NO_ARTIFACT_IDENTIFIED,"IEEE final record and open preprint verified; method details available, but reusable code/data/config artifact not identified in current audited sources"
+HFEDMS,"HFedMS Industrial Metaverse federated learning",1,0,0,0,0,0,0,0,1,R0,PARTIAL,"official/curated privacy-computing repository links code for HFedMS; IEEE paper verifies FEMNIST/368 simulated devices/8 benchmarks, but full rerun fields not yet audited"
+PRIV001,"Privacy Computing Meets Metaverse survey artifact collection",1,0,0,0,0,0,0,0,1,R0,VERIFIED_COLLECTION,"authors provide public GitHub collection linking related publications and available implementations; collection is a survey resource, not a reproduction package for all included studies"
+B001,"MetaverseBench",0,0,0,0,0,0,0,0,0,R0,PENDING,"benchmark suite publication and complete bibliographic metadata verified; public executable artifact audit still pending"
