@@ -13,7 +13,7 @@ Latest controlling review: 2026-10-05 hostile COMST review.
 
 ## Folder structure
 - equations/: formal equations.
-- tables/: manuscript-facing tables T_R1_01 through T_R1_22.
+- tables/: manuscript-facing tables T_R1_01 through T_R1_24.
 - figures/: manuscript-facing figure sources.
 - algorithms/: deterministic comparability algorithm.
 - protocols/: formal procedures retained for provenance.
@@ -27,4 +27,8 @@ Latest controlling review: 2026-10-05 hostile COMST review.
 The package does not fabricate historical PRISMA counts, formal-database exports unavailable to the execution environment, a denominator-complete R0-R4 distribution not supported by the frozen evidence, successful reconstructions that were not executed, or independent-coder kappa. These remain explicit limitations or external validation tasks.
 
 ## Build
-The locally checked final manuscript compiles to 22 IEEE two-column pages.
+The locally checked final manuscript compiles to 23 IEEE two-column pages.
+
+## Final visual revision
+- Figures 1, 2, 3, 10, 11, 12, 13, and 14 were rechecked/redrawn for academic clarity.
+- The former Fig. 7 reproducibility-count display was converted to Table IX because its structure is tabular rather than graphical.
