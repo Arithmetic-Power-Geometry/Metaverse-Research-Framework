@@ -1,0 +1,31 @@
+section,review_issue,status,revision_action_or_boundary
+1,Title,KEEP,Deployment Evidence title retained
+2,Abstract scientific numbers,REVISED,Added structured evidence-register counts; retained denominator caveats
+3,Introduction substantive findings,REVISED,Added three field-level findings paragraph
+4,Survey comparison dimensions,PARTIAL,Existing closest-survey comparison retained; broader technical matrices now expose conventional dimensions
+5,Post-freeze coverage audit,REVISED_WITH_LIMIT,Five explicit public-web query blocks run 2026-10-05; one new eligible networking paper found; not misrepresented as Scopus/WoS replication
+6,Extraction denominators,REVISED_WITH_LIMIT,Structured-register counts reported; full-vs-metadata extraction denominator not invented
+7,C0-C3 empirical use,REVISED,Applied to five real study families; family-level classes reported
+8,Multidimensional evidence application,PARTIAL,Applied throughout matrices; no fabricated 20-30-study vector scoring
+9,R0-R4 eligible corpus audit,OPEN_EXTERNAL_VALIDATION,12-row audit remains provisional; all-eligible audit not fabricated
+10,Gap falsification auditability,REVISED,Search boundary and decision date added; unsupported source counts not invented
+11,Historical lineage too short,PARTIAL,Kept concise as context; page space shifted to communications evidence
+12,Networking/edge depth,REVISED_MAJOR,Added five subsections plus nine-study communications-core matrix
+13,DT depth,REVISED,Expanded visible DT lineage to seven evidence units
+14,Semantic depth,REVISED,Added modality-task-metric-evidence matrix
+15,AI actual literature counts,PARTIAL,Primary register count reported; no corpus-wide AI prevalence fabricated
+16,Security matrix,REVISED,Expanded to 12 technical/human/normative evidence units
+17,Dataset/testbed denominator,PARTIAL,Seven reusable resources + seven testbed linkages exposed; all-eligible artifact audit remains open
+18,Standards freshness,REVISED,IEEE 2048.202/.203 active status rechecked 2026-10-05
+19,Sustainability evidence,REVISED,Added seven-row measurement-boundary table including direct/LCA/proxy distinctions
+20,Reconstruction 2-3 studies,PARTIAL,Existing PNE011/PNE016/PNE017 reconstruction artifacts retained; manuscript case table remains conservative
+21,G22 naming,REVISED,Reader-facing residual gaps renamed G1-G7
+22,Research agenda,KEEP,Measurable targets retained
+23,Second coder kappa,OPEN_EXTERNAL_VALIDATION,No independent coder available in current execution; no fake kappa
+24,Lessons redundancy,PARTIAL,Kept concise; communications section expanded without exceeding COMST page limit
+25,Data/code unfinished language,REVISED,Removed should-be-archived instruction; states repository/commit boundary and no unclaimed DOI
+26,Conclusion field numbers,REVISED_WITH_LIMIT,Uses structured evidence counts and gap results; no field-wide prevalence
+27,Reference validation,PARTIAL,200-entry frozen integrity retained; new coverage item logged but not silently inserted without authoritative metadata completion
+28,Results figures,PARTIAL,Existing audit/gap figures retained; family-level compatibility table used instead of fabricated pairwise heatmap
+29,Procedures count,PARTIAL,Core procedures emphasized; no new narrow procedures added
+30,Framework insufficiently applied,REVISED_MAJOR,Promoted networking/DT/semantic/security/sustainability/dataset/testbed registers into paper
