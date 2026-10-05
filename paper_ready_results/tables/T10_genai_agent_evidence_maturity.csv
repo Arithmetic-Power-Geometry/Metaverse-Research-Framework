@@ -1,0 +1,8 @@
+evidence_axis,GAIP01_3D_asset_workflow,AGP01_LLM_network_orchestration,AGP03_commercial_social_agent,why_it_matters
+Problem,"production-ready 3D asset generation","latency/SLA-constrained cloud-edge orchestration","user continuation/retention through social AI agents","GenAI/agents span fundamentally different research questions"
+Workload,"3D objects/textures/scripts","volumetric video + multiuser XR gaming","natural commercial-platform interactions over 31 days","workload must be explicit"
+Environment,"ComfyUI/Blender/OpenSimulator","simulated city-scale 6G topology","commercial Cluster platform","deployment maturity varies sharply"
+Metrics,"asset quality/complexity/usability","latency; SLA violations; convergence","behavioral continuation/habit outcomes","metric ontology prevents false comparison"
+Artifact evidence,"versions and parameter tables reported; audit pending","code URL reported; data not publicly available at publication","not yet audited","artifact status is separate from methodological detail"
+Evidence maturity,"prototype/workflow experiment","simulation","operational field deployment","field evidence must not be conflated with simulation"
+Cross-paper numeric ranking,INVALID,INVALID,INVALID,"synthesis should compare evidence dimensions, not performance values"
