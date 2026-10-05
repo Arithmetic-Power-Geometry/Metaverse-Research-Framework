@@ -1,9 +1,10 @@
-Revision 1 clean build: PASS
-IEEE two-column pages: 17
-Bibliography entries: 200
-Fatal LaTeX/BibTeX errors: 0
-Undefined citations/references after final pass: 0
-Reviewer suggestions tracked: 27/27
-Historical screening counts: not invented; limitation disclosed
-Corpus-wide kappa: not invented; limitation disclosed
-Field-wide reproducibility percentage: not reported because the frozen denominator is provisional.
+Revision 1 empirical reconstruction status
+Date: 2026-10-05
+Local checked build: 22 IEEE two-column pages
+Frozen bibliography: 200 entries
+New artifact tables committed through T_R1_19
+Structured registers exposed: network/edge 9; DT lineage 5 (expanded manuscript synthesis 7); semantic 6; AI/GenAI primary 6; security 12; sustainability focused 6; reusable XR resources 7; testbed linkages 7; registered artifact audit 12
+Gap audit: 8 broad claims rejected; 7 residual gaps retained and renamed G1-G7
+Post-freeze coverage audit: 5 public-web query blocks; 1 new eligible networking/resource-allocation paper surfaced; promoted conclusions unchanged
+Standards freshness: IEEE 2048.202-2026 and 2048.203-2026 rechecked active on 2026-10-05
+Open external validation: all-eligible R0-R4 audit; prospective independent second-coder kappa; database-specific coverage replication; persistent DOI archive
