@@ -1,0 +1,7 @@
+dimension,digital_twin_evidence,semantic_communication_evidence,implication_for_review_framework
+Primary object,"state/model freshness; synchronization; replica/compute placement; industrial task success","semantic features; task meaning; changed visual content; multimodal/3D reconstruction","'performance' is domain-dependent and cannot be normalized to one scalar"
+Evidence type,"algorithmic simulation + case studies + prototypes/reviews","dataset experiments + communication experiments + case architecture","evidence maturity must be recorded separately from metric value"
+Typical metric,"freshness; cost; latency; energy; task success","semantic/task accuracy; energy; reconstruction/interaction quality","metric ontology required before synthesis"
+Deployment relevance,"industrial factory/cyber-physical synchronization and interoperability","MAR/Metaverse interaction and industrial knowledge synchronization","deployment maturity should be linked to application/system context"
+Cross-paper numeric ranking,"generally invalid across DT subfamilies","generally invalid across semantic subfamilies","supports P-W-D-H-N-B-M-E gate"
+Reproducibility opportunity,"algorithm/source/parameter audit required","dataset availability makes some semantic studies promising reproduction candidates","artifact audit can identify benchmarkable islands rather than force field-wide comparison"
