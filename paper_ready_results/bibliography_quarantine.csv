@@ -1,0 +1,10 @@
+record_id,title,reason,status,next_action
+Q001,A Survey on the Metaverse: The State-of-the-Art Technologies Applications and Challenges,"DOI/venue/pages verified; complete 8-author list not fully recovered in authoritative source this run",QUARANTINED,complete authors before BibTeX admission
+Q002,Toward Metaverse of everything: Opportunities challenges and future directions of the next generation of visual/virtual communications,"authors/pages not verified this run",QUARANTINED,verify publisher metadata
+Q003,Interoperability of the Metaverse: A Digital Ecosystem Perspective Review,"authors/pages not verified this run",QUARANTINED,verify IEEE record
+Q004,Metaverse Applications: Challenges Limitations and Opportunities - A Systematic Literature Review,"authors/pages not verified this run",QUARANTINED,verify publisher record
+Q005,Artificial intelligence for the metaverse: A survey,"DOI and complete metadata unresolved",QUARANTINED,resolve publisher record
+Q006,Blockchain for the metaverse: A Review,"DOI and complete metadata unresolved",QUARANTINED,resolve publisher record
+Q007,Semantic Communications for the Metaverse: Principles and Challenges,"DOI/full metadata unresolved",QUARANTINED,verify exact publication
+Q008,Semantic Communications: Overview Open Issues and Future Research Directions,"DOI/full metadata unresolved",QUARANTINED,verify exact publication
+Q009,MetaverseBench: Instantiating and benchmarking metaverse challenges,"title/venue/volume/article/DOI verified but author list not verified",QUARANTINED,complete authors before BibTeX admission
