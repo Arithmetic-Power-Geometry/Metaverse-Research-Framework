@@ -1,0 +1,7 @@
+year,work,bibkey,role,evidence_for_history,guardrail
+2013,"3D Virtual Worlds and the Metaverse: Current Status and Future Possibilities",Dionisio2013VirtualWorlds,foundational survey,"frames functional Metaverse progress around immersive realism; ubiquity/access/identity; interoperability; scalability","historical survey; not evidence of current 2026 capability"
+2021,"Metaverse for Social Good: A University Campus Prototype",Duan2021SocialGood,prototype/foundational bridge,"three-layer architecture plus implemented blockchain-driven university-campus prototype","single prototype; do not generalize deployment maturity"
+2022,"A Metaverse: Taxonomy Components Applications and Open Challenges",Park2022MetaverseTaxonomy,early modern taxonomy,"taxonomy/components/applications/open challenges","taxonomy baseline; not novelty"
+2023,"A Survey on Metaverse: Fundamentals Security and Privacy",Wang2023COMSTMetaverse,target-journal predecessor,"distributed architecture; security/privacy; scalability/interoperability; open directions","direct COMST non-redundancy comparator"
+2024,"All One Needs to Know about Metaverse...",Lee2024CompleteSurvey,broad technology/ecosystem survey,"eight enabling technologies plus ecosystem and research agenda","broad technology/ecosystem coverage is occupied"
+2024,"Networked Metaverse Systems: Foundations Gaps Research Directions",Zhang2024NetworkedMetaverse,closest networked-systems comparator,"communication performance; mobility; scale; end-system architecture","networked systems/gaps framing is occupied"
