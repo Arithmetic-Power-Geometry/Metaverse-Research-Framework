@@ -1,0 +1,6 @@
+family,S_C_0.70,S_C_0.75,S_C_0.80,reason
+VR rendering/edge,C1,C1,C1,at least one hard semantic mismatch
+FL/learning allocation,C1,C1,C1,at least one hard semantic mismatch
+DT synchronization,C1,C1,C1,at least one hard semantic mismatch
+Semantic/DT communication,C1,C1,C1,at least one hard semantic mismatch
+Security evaluation,C1,C1,C1,at least one hard semantic mismatch
