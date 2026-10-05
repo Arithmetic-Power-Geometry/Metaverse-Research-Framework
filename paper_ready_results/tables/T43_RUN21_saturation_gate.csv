@@ -1,0 +1,13 @@
+domain,status,next_action
+"foundations/history","SATURATED","freeze"
+"network/6G/XR","SATURATED","gap validation"
+"edge/cloud/resource","SATURATED","gap validation"
+"digital twin","SATURATED","gap validation"
+"semantic communications","SATURATED","gap validation"
+"AI/ML/GenAI","SATURATED","gap validation"
+"security/privacy/identity","SATURATED","gap validation"
+"standards/interoperability","SATURATED","track normative maturity"
+"sustainability","SATURATED","preserve modeled-vs-measured distinction"
+"applications/deployment","SATURATED","preserve deployment maturity"
+"datasets/testbeds","SATURATED","artifact audit"
+"reproducibility","PROVISIONAL_DENOMINATOR","finalize eligible corpus after gap freeze"
