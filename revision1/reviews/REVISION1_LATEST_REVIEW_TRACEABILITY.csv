@@ -23,3 +23,6 @@ references,COMPLETE_WITH_LIMIT,"200 frozen entries preserved; no unverified addi
 Table I two-column positioning,COMPLETE,"converted to table* across both IEEE columns; neutral scope dimensions placed before evidence-centered dimensions"
 saturation criterion,COMPLETE,"removed round-number 200-record stopping rule from manuscript; final N=200 reported as corpus size, not saturation target"
 internal revision wording,COMPLETE,"removed manuscript-facing Revision 1 and revision1-directory wording from final print source"
+
+academic figure redraw,COMPLETE,"redrew manuscript figures 1,2,3,5,10,11,12,13,14 as publication-grade academic schematics/data graphics with consistent visual grammar"
+figure 9 conversion,COMPLETE,"converted the former gap-outcome figure into a formal IEEE table; downstream figure numbering/cross-references rebuilt and checked"
