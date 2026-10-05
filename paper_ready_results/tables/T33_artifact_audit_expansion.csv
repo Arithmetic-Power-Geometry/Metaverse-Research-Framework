@@ -1,0 +1,3 @@
+study,code,data,config_params,seeds_randomness,environment_dependencies,execution_instructions,persistent_artifact,independent_reproduction,status
+"Wu et al. 2026 SaliencyFov","YES","PARTIAL_OR_EMBEDDED","PARTIAL","NOT_ESTABLISHED","YES","YES","NOT_ESTABLISHED","NO_EVIDENCE_IDENTIFIED","R3_CANDIDATE_PENDING_EXACT_SCORE"
+"SAVG360","PUBLIC_REPO_LINK_IDENTIFIED","PENDING","PENDING","PENDING","PENDING","PENDING","PENDING","NO_EVIDENCE_IDENTIFIED","DEEP_AUDIT_PENDING"
