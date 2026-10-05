@@ -1,0 +1,12 @@
+candidate_feature,AI_GenAI_prior_work_status,our_allowed_position,required_evidence
+AI/ML taxonomy,OCCUPIED,"tutorial/supporting synthesis only","cite AI001/AI002/AI005/AI006/AI007"
+GenAI content-generation taxonomy,OCCUPIED,"supporting synthesis only","cite GAI001/GAI002"
+AI datasets inventory,OCCUPIED,"link dataset to task/workload/model/metric/environment/artifact","complete RUN15 relational dataset map"
+AI gap analysis,OCCUPIED,"only falsification-tested gaps can be headline contribution","complete contrary-evidence register"
+AI reproducibility discussion,OCCUPIED,"artifact-level executable/reusable audit may remain distinctive","complete code/data/config/seed/environment audit"
+AI method comparison,OCCUPIED,"cross-paper comparability gate rather than narrative method suitability","quantify P-W-D-H-N-B-M-E eligibility"
+Synthetic-data pipeline/augmentation,OCCUPIED,"evidence example, not our novelty","extract dataset/protocol/reproducibility only"
+Distributed ML privacy taxonomy,OCCUPIED,"security/AI cross-link only","RUN11 evidence"
+Autonomous agents/LLM agents,PARTIALLY OCCUPIED GENERALLY,"Metaverse-specific agent evidence must be separately saturated","mine primary Metaverse agent systems and deployment evidence"
+Claim-to-evidence provenance across communications domains,NOT YET MATCHED,"candidate differentiator","show systematic extraction and derived analyses"
+Contrary-evidence gap falsification,NOT YET MATCHED,"candidate differentiator","quantify rejected/surviving gaps"
