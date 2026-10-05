@@ -28,3 +28,9 @@ T08,table,Cross-domain metric ontology,batch-02-ready,RUN07-08,Methods/comparabi
 D06,data,Digital twin evidence batch 01,ready,RUN07,DT synthesis
 D07,data,Semantic communication evidence batch 01,ready,RUN08,Semantic synthesis
 R0708,review,RUN07-08 batch 01 adversarial review,ready,RUN07-08,Metric/evidence quality gate
+T09,table,AI GenAI novelty guardrails,batch-01-ready,RUN09-10,Novelty/non-redundancy
+T10,table,GenAI agent evidence maturity,batch-02-ready,RUN09-10,AI/agent evidence synthesis
+D08,data,AI GenAI review evidence batch 01,ready,RUN09-10,T09 source
+D09,data,AI GenAI primary evidence batch 02,ready,RUN09-10,T10 source
+R0910A,review,RUN09-10 batch 01 adversarial review,ready,RUN09-10,AI novelty gate
+R0910B,review,RUN09-10 batch 02 adversarial review,ready,RUN09-10,Primary evidence gate
