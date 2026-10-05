@@ -29,3 +29,6 @@ figure 9 conversion,COMPLETE,"converted the former gap-outcome figure into a for
 
 figure 7 conversion,COMPLETE,"converted provisional reproducibility count display from figure to formal IEEE table; later figure numbering rebuilt automatically"
 final package consistency,COMPLETE,"README synchronized to 23 pages and T_R1_01 through T_R1_24; PDF render checked after conversion"
+
+unboxed figure redesign,COMPLETE,"Figures 1,2,3,10,11,12,13,14 redrawn without boxed text; connector/arrow geometry corrected and publication-scale labels checked"
+roadmap consistency,COMPLETE,"corrected awkward Sections I-A--X roadmap wording after final section freeze"
