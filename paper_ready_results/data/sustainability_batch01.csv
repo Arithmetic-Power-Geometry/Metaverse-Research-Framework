@@ -1,0 +1,7 @@
+record_id,year,scope,corpus_or_evidence,main_measurement_status,novelty_consequence,bibkey
+SUS001,2024,"Metaverse and sustainable development","bibliometric + systematic literature review","environmental/economic/social sustainability synthesized","broad sustainability synthesis occupied",Johri2024SustainableDevelopment
+SUS002,2025,"Metaverse technologies in energy sustainability","systematic review of recent energy-sector research","benefits and challenges include energy efficiency and high energy consumption","energy-sustainability review occupied; distinguish measured consumption from claimed benefit",Chen2025EnergySustainability
+SUS003,2025,"Metaverse as smart-city form vs SDGs","systematic literature review","co-benefits and trade-offs; environmental impacts included","SDG/trade-off framing occupied",Sharifi2025SmartCities
+SUS004,2025,"Metaverse sustainability","47-study systematic review","literature predominantly theoretical; empirical work limited","supports evidence-maturity audit rather than new sustainability taxonomy",Neuhaus2025Sustainability
+SUS005,2026,"Metaverse in ESG practices","46-study PRISMA review","ESG opportunities risks outcomes barriers/enablers","ESG/TOE research agenda occupied",EdDafali2026ESG
+SUS006,2024,"semantic edge sustainability","real-dataset simulation + optimization","cost energy QoE under uncertainty","primary measurable sustainability evidence",Ng2024SemanticSustainable
