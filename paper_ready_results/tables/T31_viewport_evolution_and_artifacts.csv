@@ -1,0 +1,8 @@
+work,year,core_mechanism,evidence,artifact_status
+"VAS360",2019,"QoE-driven viewport-adaptive tiled streaming","system evaluation","artifact not yet audited"
+"CoLive",2022,"edge-assisted collaborative online viewport learning","public dataset experiments","artifact not yet audited"
+"Meta360",2023,"BiLSTM + meta-learning personalization","multi-dataset evaluation","artifact not yet audited"
+"SAVG360",2023,"saliency-aware viewport guidance + mode prediction","trace evaluation + user study","public GitHub link identified; deep audit pending"
+"GNN viewport",2023,"content/current-user/cross-user graph fusion","public dataset experiments","artifact not yet audited"
+"Privacy-preserving gaze streaming",2024,"differential privacy + crossmodal prediction + bitrate allocation","experimental evaluation","artifact not yet audited"
+"Mobile-friendly viewport",2025,"saliency + LSTM + MAML distributed inference","real-time experiments","artifact not yet audited"
