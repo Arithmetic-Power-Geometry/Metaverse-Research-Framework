@@ -1,0 +1,9 @@
+Revision 1 clean build: PASS
+IEEE two-column pages: 17
+Bibliography entries: 200
+Fatal LaTeX/BibTeX errors: 0
+Undefined citations/references after final pass: 0
+Reviewer suggestions tracked: 27/27
+Historical screening counts: not invented; limitation disclosed
+Corpus-wide kappa: not invented; limitation disclosed
+Field-wide reproducibility percentage: not reported because the frozen denominator is provisional.
