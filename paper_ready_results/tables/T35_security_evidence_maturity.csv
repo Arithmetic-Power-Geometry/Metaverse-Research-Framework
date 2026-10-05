@@ -1,0 +1,6 @@
+work,mechanism,evidence_class
+"Seo et al. 2024","blockchain space authentication","PROTOCOL_IMPLEMENTATION_EVALUATION"
+"Zero-Trust candidate","biometric authentication + FL","PRELIMINARY_EXPERIMENT"
+"PRIDA-ME candidate","privacy-preserving interoperable decentralized authentication","PROTOCOL_EVALUATION_PENDING"
+"MetaL candidate","MC-ABE + sharding blockchain","PROOF_OF_CONCEPT"
+"IEEE 3812.1-2023","identity framework","FINAL_STANDARD"
