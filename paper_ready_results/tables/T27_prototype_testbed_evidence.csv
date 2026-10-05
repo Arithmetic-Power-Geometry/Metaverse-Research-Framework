@@ -1,0 +1,6 @@
+study,evidence_class,hardware_or_environment,metrics_or_evaluation,comparison_rule
+"Huang et al. 2023","PROTOTYPE + USER_STUDY","~6K 360 video; 5G mmWave; mobile edge compute","PSNR; FOVVideoVDP; user sensitivity; bandwidth reduction","do not compare directly with simulation-only optimization"
+"Farooq et al. 2025","MEASURED_NETWORK_TESTBED","Unity server; Meta Quest 3; Ethernet/Wi-Fi6/local 5G","one-way delay; jitter; multiple traffic scenarios","measured access-network evidence"
+"Li et al. 2025","DEVICE-VERIFIED PROTOTYPE","Meta Quest Pro; cloud-edge-end semantic architecture","PSNR under channel degradation; latency/bandwidth rationale","device verification distinct from operational deployment"
+"Xu et al. 2026","SIMULATION + MECHANISM PROOF","NUMA edge servers","utility; revenue; winners; utilization; runtime; truthfulness","economic/system simulation evidence"
+"Christopoulou et al. 2025","FEASIBILITY STUDY","5G SBA/MEC/network analytics requirements analysis","bitrate; latency; capacity; power; accuracy gaps","not an operational 6G deployment"
