@@ -1,0 +1,28 @@
+id,reviewer_suggestion,status,revision1_action
+01,Title overpromises deployment readiness,REVISED,Title changed to deployment evidence; standards matrix added
+02,Abstract lacks quantitative findings,REVISED,200 integrity facts; 8 rejected/7 retained gaps; 12-row audit qualified
+03,Insufficient positioning vs surveys,REVISED,survey-of-surveys added
+04,Search/corpus protocol incomplete,PARTIAL_TRANSPARENT,screening stages added; unavailable historical counts disclosed; no invented PRISMA counts
+05,Extraction framework not visibly populated,REVISED,extraction codebook added
+06,Comparability subjective,REVISED,c_k scale; score; C0-C3; deterministic procedure
+07,E0-E8 wrongly ordinal,REVISED,multidimensional evidence vector
+08,R0-R4 undefined,REVISED,exact definitions added
+09,Gap falsification confirmation bias,REVISED,stop rule; rejected/retained registry; counts
+10,Networking sections too narrative,REVISED_WITH_EXISTING_MATRICES,comparability framework plus existing evidence matrices
+11,DT table sparse,REVISED_WITH_SCOPE,lineage retained; evidence obligations clarified
+12,Semantic taxonomy/counts missing,PARTIAL_TRANSPARENT,no unsupported corpus counts invented
+13,AI section too short,REVISED,RL/MARL/FL/foundation/GenAI/agents/edge-AI obligations
+14,Security synthesis too small,REVISED,security transfer/evidence matrix
+15,Artifact denominator missing,REVISED,denominator rules plus provisional audit figure
+16,Standards matrix missing,REVISED,standards/deployment evidence matrix
+17,Sustainability evidence classes unquantified,REVISED_WITH_LIMIT,S0-S4 formalized; no unsupported percentages
+18,Benchmark no-go awkward,REVISED,failed-reconstruction case study
+19,Rejected gap candidates hidden,REVISED,rejected and retained shown
+20,Research agenda qualitative,REVISED,measurable targets/minimum evidence
+21,Threats to validity absent,REVISED,dedicated threats section
+22,Immutable snapshot missing,REVISED_PROCESS,revision1 folder plus commit; DOI required before submission
+23,Conclusion lacks numbers,REVISED,200/8/7/12/2/1 takeaways with caveat
+24,Figures conceptual only,REVISED,corpus-flow; audit counts; gap outcomes
+25,Too many algorithms/checklists,REVISED,renamed Procedures and formalized inputs/outputs
+26,200 refs not enough without provenance,PARTIAL_TRANSPARENT,integrity+saturation+unavailable upstream counts disclosed
+27,Single-author coding weakness,REVISED_AS_LIMITATION,gap-bearing second pass; no fake kappa; limitation explicit
