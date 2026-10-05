@@ -1,10 +1,11 @@
 category,count,notes
 equations,5,formal Revision-1 equations
-tables,12,reviewer-facing and manuscript-facing synthesis tables
+tables,19,reviewer-facing and manuscript-facing synthesis tables
 figures,3,new quantitative/audit figures
-protocols,3,formalized review procedures
-review_traceability,27,all reviewer suggestions mapped
-bibliography,200,frozen master bibliography used in compiled package
-compiled_pages,17,IEEE two-column
-fatal_build_errors,0,clean final build
-undefined_citations_or_refs,0,clean final build
+protocols,3,core formal review procedures
+first_review_traceability,27,first strict review mapped
+second_review_traceability,30,hostile COMST re-review mapped
+coverage_audit,5,dated public-web query blocks
+bibliography,200,frozen master bibliography
+local_checked_pages,22,IEEE two-column final reconstruction
+open_external_validation,4,eligible R0-R4 audit; independent coder kappa; database-specific audit; DOI archive
