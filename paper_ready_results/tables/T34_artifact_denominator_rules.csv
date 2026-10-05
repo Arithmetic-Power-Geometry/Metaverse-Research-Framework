@@ -1,0 +1,8 @@
+evidence_unit,include_in_primary_artifact_denominator,reason
+"primary evaluated algorithm/system study","YES","eligible unit for implementation reproducibility"
+"implemented benchmark paper","YES_WITH_TAG","artifact-bearing evaluated system; retain benchmark tag"
+"dataset-only record","NO","data resource rather than primary algorithm/system study"
+"survey/review","NO","secondary evidence"
+"standards document","NO","normative evidence, not research artifact"
+"conceptual architecture without executable evaluation","NO_FOR_PRIMARY_PREVALENCE","separate evidence class"
+"operational field study","YES_WITH_TAG","primary empirical evidence; artifact expectations differ"
