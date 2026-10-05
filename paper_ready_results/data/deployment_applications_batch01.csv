@@ -1,0 +1,6 @@
+record_id,year,domain_or_platform,evidence_scale,evidence_type,deployment_interpretation,bibkey
+DEP001,2024,"cross-domain empirical Metaverse","1342 screened; 331 Metaverse-focused; 40 empirical","systematic empirical review","empirical evidence remains a minority of screened corpus; use as deployment/evidence context",Hajian2024Empirical
+DEP002,2024,"11 application industries","post-COVID scoping review 2020-2022","scoping review","application breadth is occupied; deployment maturity must be separately assessed",Tukur2024DigitalEnvironments
+DEP003,2024,"NVIDIA Omniverse ecosystem","platform survey","simulation/data-generation/platform review","platform capability evidence is not operational adoption evidence",Ahmed2024Omniverse
+DEP004,2026,"commercial social Metaverse AI agent","31-day field deployment; 5020 unique users","longitudinal field study","high deployment maturity candidate; bibliography still quarantined pending complete authors",QUARANTINED_AUTHORS
+DEP005,2021,"university campus prototype","implemented prototype","prototype","demonstrates application implementation but not field-wide operational maturity",Duan2021SocialGood
