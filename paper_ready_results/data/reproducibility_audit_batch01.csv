@@ -1,0 +1,8 @@
+study_id,artifact,code,data,config_params,seeds_randomness,environment_dependencies,execution_instructions,persistent_artifact,independent_reproduction,total_score,class,status,evidence_note
+B002,"XRBench MLSys 2023",1,1,1,1,1,1,1,0,7,R3,VERIFIED,"public GitHub repo gives dependencies/build/reproduce scripts and notes deterministic/nondeterministic cases; Zenodo DOI archives plot data"
+DATA007,"BOXRR-23",1,1,1,0,1,1,1,1,7,R3,VERIFIED,"4.71 TB dataset with DOI; parser/open code; associated studies include artifact-reviewed code; independent artifact evaluation exists for some associated studies"
+GAIP01,"Three-Tier Generative AI Workflow for Metaverse Asset Creation",0,0,1,0,1,0,0,0,2,R1,PARTIAL,"paper reports software versions and parameter/configuration tables; executable artifact still requires audit"
+AGP01,"LLM-guided multi-agent DRL 6G Metaverse orchestration",1,0,0,0,0,0,0,0,1,R0,PARTIAL,"code link reported in paper context; public data unavailable at publication; repository execution audit pending"
+PNE011,"FL resource allocation for Metaverse MAR",0,0,0,0,0,0,0,0,0,R0,PENDING,"paper metadata and numerical evaluation verified; artifact availability not established in audited sources"
+PNE012,"anti-jamming Metaverse resource allocation",0,0,0,0,0,0,0,0,0,R0,PENDING,"simulation paper verified; artifact search/audit pending"
+PNE015,"FRL O-RAN slicing for Metaverse",0,0,0,0,0,0,0,0,0,R0,PENDING,"numerical evaluation verified; artifact search/audit pending"
