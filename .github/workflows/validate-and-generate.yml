@@ -7,6 +7,7 @@ on:
       - "evidence/**"
       - "taxonomy/**"
       - "src/**"
+      - "benchmarks/**"
       - "requirements.txt"
       - ".github/workflows/validate-and-generate.yml"
   pull_request:
@@ -14,6 +15,7 @@ on:
       - "evidence/**"
       - "taxonomy/**"
       - "src/**"
+      - "benchmarks/**"
       - "requirements.txt"
       - ".github/workflows/validate-and-generate.yml"
   workflow_dispatch:
@@ -33,7 +35,8 @@ jobs:
         run: python src/validate_evidence.py
       - name: Validate parameter provenance
         run: python benchmarks/network_edge/validate_parameter_provenance.py
-
+      - name: Validate PNE017 fidelity gate
+        run: python benchmarks/network_edge/pne017/validate_fidelity.py
       - name: Generate seed artifacts
         run: python src/generate_seed_artifacts.py
       - name: Upload generated artifacts
