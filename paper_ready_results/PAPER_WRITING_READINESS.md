@@ -3,7 +3,7 @@
 Updated: 2026-10-05
 
 ## Current readiness
-Approximately **82%**.
+Approximately **84%**.
 
 ## Current phase
 Broad domain evidence is substantially assembled. Work has entered artifact-level reproducibility and benchmark/source reconstruction.
@@ -16,7 +16,7 @@ XRBench is the current positive-control example because it exposes build/depende
 No field-level percentages are permitted until the eligible computational-study denominator is frozen.
 
 ## What remains before writing
-1. Expand RUN 16 artifact audit across the eligible computational corpus.
+1. Expand RUN 16 artifact audit across the eligible computational corpus; deep-audit HFedMS and MetaverseBench next.
 2. RUN 17–19 reconstruct PNE011/PNE015/PNE016/PNE017 source models and parameters where source evidence permits.
 3. RUN 20 freeze artifact/reproducibility findings.
 4. RUN 21 final search saturation + deduplication.
