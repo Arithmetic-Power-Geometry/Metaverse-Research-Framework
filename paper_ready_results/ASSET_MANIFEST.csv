@@ -2,12 +2,20 @@ asset_id,type,title,status,source_run,paper_use
 T01,table,Closest-review novelty overlap matrix,batch-01-ready,RUN02,Introduction/non-redundancy
 T02,table,Existing benchmark precedents,batch-02-ready,RUN02,Benchmark positioning
 T03,table,Feature-level novelty status,batch-03-ready,RUN02,Contribution/non-redundancy
+T04,table,Networked survey versus evidence framework,batch-02-ready,RUN04,Novelty/methodology
+T05,table,Foundational evolution timeline,batch-02-ready,RUN03,Background/evolution
 D01,data,Closest-review normalized evidence batch 01,ready,RUN02,T01 source
 D02,data,Closest-review normalized evidence batch 02,ready,RUN02,T02/T03 source
 D03,data,Closest-review normalized evidence batch 03,ready,RUN02,T03 source
+D04,data,Network primary comparability batch 02,ready,RUN04,T04/comparability source
+BIB01,bibliography,Master verified BibTeX,active-continuous,ALL,All manuscript citations
+BQ01,bibliography,Bibliography quarantine,active-continuous,ALL,Metadata integrity
 R01,review,RUN01 adversarial review,ready,RUN01,Internal quality control
 R02A,review,RUN02 batch 01 review,ready,RUN02,Novelty control
 R02B,review,RUN02 batch 02 review,ready,RUN02,Benchmark/reproducibility novelty control
 R02C,review,RUN02 batch 03 review,ready,RUN02,Target-journal novelty control
+R03B2,review,RUN03 batch 02 review,ready,RUN03,History quality gate
+R04B2,review,RUN04 batch 02 review,ready,RUN04,Comparability quality gate
 F01,figure,Closest-review feature overlap visualization,planned,RUN02,Introduction/non-redundancy
+F02,figure,Evolution from virtual worlds to evidence-normalized networked Metaverse,planned,RUN03,Background/evolution
 A01,algorithm,First faithful benchmark algorithm specification,blocked,RUN23+,Experimental track only if benchmark gate passes
