@@ -1,0 +1,10 @@
+metric_class,examples,domains,normalization_rule,cross_family_numeric_comparison
+Transport/network,"latency; throughput/rate; reliability; delivery success","XR; edge; semantic; DT","record definition, aggregation, percentile/mean, traffic/channel conditions",ONLY_IF_MATCHED
+Compute/resource,"CPU/GPU/bandwidth; utilization; monetary cost","edge; VR; DT","record resource units/capacity and allocation horizon",ONLY_IF_MATCHED
+Immersive QoE,"resolution; visual quality; MTP; Meta-Immersion; fairness-QoE","XR/VR","preserve exact QoE formula and weights; never equate named composite QoE metrics",GENERALLY_NO
+Synchronization/freshness,"AoI; expected AoI; DT freshness; model freshness; desynchronization","digital twin","preserve timestamp/update model and cost trade-off",ONLY_WITHIN_COMPATIBLE_MODEL
+Learning/task,"accuracy; completion time; convergence; task success","FL; AI; semantic","record model/task/dataset/training protocol",ONLY_IF_MATCHED
+Semantic,"semantic fidelity; referential task success; change detection; reconstruction quality","semantic communications","record semantic unit/task/dataset/channel and decoder/generator",ONLY_IF_MATCHED
+Energy/sustainability,"device energy; system energy; energy efficiency; carbon","XR; edge; semantic; sustainability","record boundary, measurement/model, units, workload duration",ONLY_IF_MATCHED
+Security/trust,"attack/disruption risk; consistency; privacy/security cost","security; blockchain; DT","record threat model and adversary assumptions",ONLY_IF_MATCHED
+Deployment/availability,"scale; availability; downtime; prototype/pilot/operational maturity","deployment; DT; systems","do not mix maturity levels with performance metrics",NO_SCALAR_RANK
