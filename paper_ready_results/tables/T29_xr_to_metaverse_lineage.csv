@@ -1,0 +1,6 @@
+period,technical_lineage,evidence_example,implication_for_metaverse_synthesis
+"pre-2020","viewport-adaptive 360 streaming","Hu et al. ICC 2019 prototype","Metaverse inherits established immersive streaming mechanisms"
+"pre-2020","edge VR offloading and pre-rendering","Zhu et al. SEC 2019 EdgeVR","power/MTP trade-off predates Metaverse framing"
+"2022+","edge-assisted collaborative viewport learning","CoLive ICME 2022 candidate","learning-based edge prediction continues earlier XR lineage"
+"2023+","5G mmWave + MEC telepresence","Huang et al. TVCG 2023","later systems combine XR mechanisms with cellular edge infrastructure"
+"2024","edge-enabled Metaverse synthesis","Patra et al. IEEE Access 2024","broad edge survey novelty already occupied"
