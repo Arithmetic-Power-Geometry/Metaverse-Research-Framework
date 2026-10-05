@@ -3,52 +3,56 @@
 Updated: 2026-10-05
 
 ## Current readiness
-Approximately **66%**.
+Approximately **69%**.
 
-## Active sequence
-- RUN 02 closest-review novelty saturation: ACTIVE.
-- RUN 03 foundations/history: ACTIVE, major modern anchors verified.
-- RUN 04 communications/5G/6G: ACTIVE, normalized comparison started.
-- RUN 05 XR/rendering: ACTIVE, comparability batch 01 complete.
-- RUN 06 edge/cloud/resource allocation: ACTIVE, comparability batch 01 complete.
-- Master BibTeX: ACTIVE and append-only after verification.
+## Active/completed work
+- RUN 01: structural integrity CLOSED; workflow manually inspected again before current mining; no manual run triggered.
+- RUN 02: closest-review novelty saturation ACTIVE.
+- RUN 03: foundations/history ACTIVE.
+- RUN 04: communications/5G/6G ACTIVE.
+- RUN 05: XR/rendering ACTIVE.
+- RUN 06: edge/cloud/resource allocation ACTIVE.
+- RUN 07: digital twins ACTIVE; two evidence batches complete.
+- RUN 08: semantic communications ACTIVE; metric ontology created.
+- Master BibTeX: ACTIVE, verified append-only.
 
-## Strongest emerging manuscript result
-Resource-allocation papers that appear comparable at the topic level frequently optimize different objects, metrics, constraints, workloads and environments. The P-W-D-H-N-B-M-E audit is being used to classify cross-paper comparison eligibility rather than reproducing misleading winner rankings.
+## Strongest results emerging
+1. Topic-level similarity does not imply experimental comparability.
+2. Resource-allocation studies frequently differ in problem, workload, objective, constraints and environment.
+3. Cross-domain 'performance' is not a scalar: at least nine metric classes are now required.
+4. Digital-twin freshness/AoI and semantic/task metrics make naive cross-domain ranking invalid.
+5. The P-W-D-H-N-B-M-E gate plus metric ontology is becoming a measurable synthesis method rather than a taxonomy.
 
 ## What remains before writing
-1. Close RUN 02 with full-text novelty-feature saturation.
-2. Finish RUN 03/04 saturation.
-3. Finish RUN 05/06 and quantify valid/partial/invalid comparison pairs.
-4. RUN 07 digital twins.
-5. RUN 08 semantic communications.
-6. RUN 09 AI/ML.
-7. RUN 10 GenAI/agents.
-8. RUN 11 security/privacy/identity/trust.
-9. RUN 12 interoperability/standards.
-10. RUN 13 sustainability.
-11. RUN 14 applications/deployment.
-12. RUN 15 datasets/testbeds.
-13. RUN 16–20 benchmark reconstruction and artifact-level reproducibility.
-14. RUN 21 corpus saturation/dedup freeze.
-15. RUN 22 gap validation freeze.
-16. RUN 23 benchmark Go/No-Go.
-17. RUN 24–27 conditional experiments/new algorithm only if evidence justifies them.
-18. RUN 28 final figures/tables/algorithms.
-19. RUN 29 final COMST novelty/non-redundancy gate.
-20. RUN 30 evidence freeze.
-21. RUN 31 write 28–30 page COMST manuscript.
-22. RUN 32 final adversarial pre-submission review.
+1. Close RUN 02 novelty saturation/full-text feature audit.
+2. Complete RUN 03–08 saturation and quantify comparison eligibility.
+3. RUN 09 AI/ML.
+4. RUN 10 GenAI/autonomous agents.
+5. RUN 11 security/privacy/identity/trust.
+6. RUN 12 interoperability/standards.
+7. RUN 13 sustainability.
+8. RUN 14 applications/deployment.
+9. RUN 15 datasets/testbeds.
+10. RUN 16–20 benchmark reconstruction and artifact-level reproducibility.
+11. RUN 21 corpus saturation/dedup freeze.
+12. RUN 22 gap validation/falsification freeze.
+13. RUN 23 benchmark Go/No-Go.
+14. RUN 24–27 conditional experiments/new algorithm.
+15. RUN 28 final manuscript figures/tables/algorithms.
+16. RUN 29 final adversarial COMST novelty gate.
+17. RUN 30 evidence freeze.
+18. RUN 31 write the 28–30 page initial COMST manuscript.
+19. RUN 32 final pre-submission rejection-style audit.
 
-## Bibliography target
-Target: **200+ valid, relevant references by evidence freeze**, not 200 padded citations.
-
-Current verified master count is updated after every batch. Records enter only after metadata verification. Incomplete records remain quarantined.
+## Bibliography
+Target: **200+ valid relevant references by RUN 30**.
+Every admitted record must have complete verified bibliographic metadata. Adjacent/foundational papers are tagged conceptually and do not inflate the included Metaverse primary-study count.
 
 ## Workflow safety
-Before any workflow execution/change:
-- re-fetch workflow;
-- verify requirements;
-- verify referenced validator paths;
-- do not run scientific benchmark scenarios with unresolved parameter provenance;
-- treat absence of observed CI status as unresolved, never as success.
+Before running or modifying CI/benchmarks:
+- re-fetch workflow and requirements;
+- verify validator paths;
+- verify parameter provenance;
+- never execute scientific scenarios containing unresolved source parameters;
+- inspect failures before retrying;
+- never infer success from missing status data.
