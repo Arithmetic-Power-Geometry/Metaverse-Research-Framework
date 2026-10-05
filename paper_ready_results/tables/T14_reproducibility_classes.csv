@@ -1,0 +1,6 @@
+class,definition,minimum_interpretation,manuscript_use
+R0,"0-1/8","artifact evidence absent, unverified or only a fragment identified","do not call reproducible"
+R1,"2-3/8","some inspectable details/artifacts but insufficient rerun path","partial transparency"
+R2,"4-5/8","substantial reconstruction possible but important rerun/persistence gaps remain","reconstructable"
+R3,"6-7/8","strong rerun path with substantial artifact/environment/persistence support","rerunnable/archived"
+R4,"8/8","R3 plus independent reproduction evidence","independently reproduced"
