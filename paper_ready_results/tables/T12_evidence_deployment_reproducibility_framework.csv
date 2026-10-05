@@ -1,0 +1,6 @@
+axis,definition,example_evidence,manuscript_rule
+Evidence maturity,"strength/type of scientific evaluation","concept -> model -> simulation -> prototype -> public-data evaluation -> operational deployment -> independent reproduction","do not infer maturity from venue or algorithm complexity"
+Deployment maturity,"distance from laboratory evaluation to sustained real-world operation","simulation; prototype; pilot; operational field deployment","record application population duration infrastructure and operational constraints"
+Reproducibility,"ability to inspect/recreate computational evidence","code; data; configs; seeds; environment; preprocessing; executable workflow","code link alone is not full reproducibility"
+Sustainability evidence,"directness of environmental/resource measurement","modeled energy; measured device/system energy; carbon estimate/measurement; resource utilization","separate claimed sustainability benefit from measured environmental evidence"
+Standards maturity,"normative specification status","work item; draft; approved/in-force standard","standard existence does not imply deployment/conformance"
