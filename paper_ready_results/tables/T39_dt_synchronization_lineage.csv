@@ -1,0 +1,6 @@
+year,study,mechanism,primary_metric,evidence
+2021,"Lu et al.","DRL placement + transfer-learning migration","system cost/convergence","numerical"
+2022,"Hashash et al.","edge continual learning + EWC","accuracy/desynchronization time","simulation"
+2023,"Hashash et al.","optimal-transport joint DT/sub-metaverse association","sub-synchronization time","simulation"
+2025,"Tong et al.","CMDP + continual reinforcement learning","NRMSE under RB constraint","simulation"
+2026,"Mosavisadr et al.","hierarchical FL + TL-DDQN + semantic transfer","AoI/request-count energy/network traffic","simulation + statistical analysis"
