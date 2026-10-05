@@ -1,0 +1,6 @@
+id,problem,method,evidence,comparison_status
+"PNE006","collaborative end-edge VR resource allocation","FoV-aware offloading + enhanced whale optimization","simulation","NOT cross-paper comparable yet"
+"PNE012","anti-jamming rendering/channel/power allocation","hierarchical reinforcement learning","simulation","NOT cross-paper comparable yet"
+"PNE015","O-RAN slicing resource allocation","federated reinforcement learning + xAPPs","numerical/simulation","NOT cross-paper comparable yet"
+"PNE017","multi-user interactive VR edge-device computing","AQM-CUP safe reinforcement learning","experimental/numerical study","fidelity reconstruction still blocked"
+"Al Ridhawi & Aloqaily 2025","6G next-generation edge/SAGIN task-resource management","AI + DT + FL + blockchain framework","framework + case study","contextual, not benchmark ranking"
