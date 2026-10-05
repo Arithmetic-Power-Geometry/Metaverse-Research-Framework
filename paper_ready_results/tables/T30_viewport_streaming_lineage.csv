@@ -1,0 +1,6 @@
+study,year,method,evidence,tradeoff
+"Sparkle",2021,"user-aware explainable viewport prediction","real datasets","prediction accuracy vs behavioral heterogeneity"
+"CoLive candidate",2022,"edge-assisted collaborative online learning","public 360 dataset experiments","prediction quality vs edge/client computation"
+"Meta360 candidate",2023,"BiLSTM + meta-adaptation","multiple datasets","personalization/robustness vs learning complexity"
+"Jin et al.",2024,"differential privacy + crossmodal attention + tile bitrate allocation","experimental evaluation","privacy vs prediction/QoE/bandwidth"
+"Zhang et al.",2025,"saliency + LSTM + MAML; distributed computation","real-time mobile experiments","accuracy/QoE vs mobile compute/transmission overhead"
