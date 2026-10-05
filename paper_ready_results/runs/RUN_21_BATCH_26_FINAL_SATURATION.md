@@ -4,7 +4,7 @@
 Workflow, requirements and master bibliography were checked before repository changes. No CI or scientific benchmark was executed.
 
 ## Outcome
-The master bibliography crossed the 200-reference target using verified, deduplicated records. RUN21 literature expansion is now closed except for correction of metadata errors discovered later.
+Final physical verification initially returned 198 records; the closure was held. Two additional coverage-relevant, fully verified records (Ren et al. 2022 CAV collective learning; Yu et al. 2025 METAseen operational traffic/privacy analysis) were then admitted. The master bibliography subsequently reached the 200-reference target using verified, deduplicated records. RUN21 literature expansion is now closed except for correction of metadata errors discovered later.
 
 ## Coverage-closing additions
 - RIS-enabled 6G + DT Metaverse orchestration.
