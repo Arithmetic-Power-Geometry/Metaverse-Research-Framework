@@ -26,3 +26,6 @@ internal revision wording,COMPLETE,"removed manuscript-facing Revision 1 and rev
 
 academic figure redraw,COMPLETE,"redrew manuscript figures 1,2,3,5,10,11,12,13,14 as publication-grade academic schematics/data graphics with consistent visual grammar"
 figure 9 conversion,COMPLETE,"converted the former gap-outcome figure into a formal IEEE table; downstream figure numbering/cross-references rebuilt and checked"
+
+figure 7 conversion,COMPLETE,"converted provisional reproducibility count display from figure to formal IEEE table; later figure numbering rebuilt automatically"
+final package consistency,COMPLETE,"README synchronized to 23 pages and T_R1_01 through T_R1_24; PDF render checked after conversion"
