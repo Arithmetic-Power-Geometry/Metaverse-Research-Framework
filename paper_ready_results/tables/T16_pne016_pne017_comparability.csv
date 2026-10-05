@@ -1,0 +1,3 @@
+study,core_problem,resource_or_decision,primary_metric_or_objective,method,evidence,shared_numeric_ranking
+PNE016,"VR cooperative rendering + dynamic leasing","GPU; CPU; outbound bandwidth; auction/leasing","EdgeVRQoE; utilization","hybrid-action multi-agent RL dynamic resource auction","extensive simulation; source reports >=18x QoE","INVALID without matched common slice"
+PNE017,"interactive VR queues + MEC allocation under MTP","background rendering; MEC resources; queue control","sensor-information age + device power subject to MTP","AQM-CUP safe RL","experiments; convergence/performance comparison","INVALID without matched common slice"
