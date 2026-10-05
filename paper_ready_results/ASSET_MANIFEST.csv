@@ -45,3 +45,5 @@ D12,data,PNE016 reconstruction register,active,RUN18,Source reconstruction
 D13,data,PNE017 reconstruction register,active,RUN19,Source reconstruction
 T16,table,PNE016 PNE017 comparability gate,ready,RUN19,Cross-paper comparability
 R1819,review,RUN18 RUN19 adversarial reconstruction gate,ready,RUN18-19,Execution safety
+T17,table,Provisional reproducibility audit counts,provisional,RUN20,Denominator-aware artifact statistics
+R20,review,RUN20 provisional reproducibility review,ready,RUN20,Prevalence claim gate
