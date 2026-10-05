@@ -1,0 +1,6 @@
+study,property,mechanism,evidence
+"PRIDA-ME","authentication/privacy/interoperability","blockchain+ECC+biohashing+PUF","BAN+ProVerif+Scyther+cost evaluation"
+"Toward Zero-Trust","continuous authentication/privacy","biometrics+FL","preliminary experiment"
+"MetaL","decentralized access control","MC-ABE+sharding blockchain","proof-of-concept"
+"Space Authentication","authentication","blockchain","implementation/evaluation"
+"Privacy Challenges","privacy threat structure","categorization","secondary evidence"
