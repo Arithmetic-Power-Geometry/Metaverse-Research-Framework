@@ -23,3 +23,8 @@ T06,table,Algorithm-family comparability,batch-01-ready,RUN05-06,Comparative evi
 D05,data,XR edge comparability batch 01,ready,RUN05-06,T06 source
 R0506,review,RUN05-06 batch 01 adversarial review,ready,RUN05-06,Comparability quality gate
 BIB01,bibliography,Master verified BibTeX,active-continuous,ALL,Target 200+ valid references by evidence freeze
+T07,table,Digital twin versus semantic evidence comparison,batch-01-ready,RUN07-08,Cross-domain synthesis
+T08,table,Cross-domain metric ontology,batch-02-ready,RUN07-08,Methods/comparability
+D06,data,Digital twin evidence batch 01,ready,RUN07,DT synthesis
+D07,data,Semantic communication evidence batch 01,ready,RUN08,Semantic synthesis
+R0708,review,RUN07-08 batch 01 adversarial review,ready,RUN07-08,Metric/evidence quality gate
