@@ -1,6 +1,13 @@
 asset_id,type,title,status,source_run,paper_use
 T01,table,Closest-review novelty overlap matrix,batch-01-ready,RUN02,Introduction/non-redundancy
-D01,data,Closest-review normalized evidence,batch-01-ready,RUN02,Source for T01 and novelty analysis
+T02,table,Existing benchmark precedents,batch-02-ready,RUN02,Benchmark positioning
+T03,table,Feature-level novelty status,batch-03-ready,RUN02,Contribution/non-redundancy
+D01,data,Closest-review normalized evidence batch 01,ready,RUN02,T01 source
+D02,data,Closest-review normalized evidence batch 02,ready,RUN02,T02/T03 source
+D03,data,Closest-review normalized evidence batch 03,ready,RUN02,T03 source
 R01,review,RUN01 adversarial review,ready,RUN01,Internal quality control
-R02,review,RUN02 adversarial review batch 01,ready,RUN02,Internal novelty control
-F01,figure,Closest-review overlap visualization,planned,RUN02,Introduction/non-redundancy
+R02A,review,RUN02 batch 01 review,ready,RUN02,Novelty control
+R02B,review,RUN02 batch 02 review,ready,RUN02,Benchmark/reproducibility novelty control
+R02C,review,RUN02 batch 03 review,ready,RUN02,Target-journal novelty control
+F01,figure,Closest-review feature overlap visualization,planned,RUN02,Introduction/non-redundancy
+A01,algorithm,First faithful benchmark algorithm specification,blocked,RUN23+,Experimental track only if benchmark gate passes
