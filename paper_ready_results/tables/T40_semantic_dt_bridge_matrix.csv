@@ -1,0 +1,7 @@
+study,modality,bridge,evidence
+"Yan et al. 2022","text","semantic spectral efficiency/resource allocation","simulation"
+"Jagatheesaperumal et al. 2023","multi-domain conceptual","semantic-aware DT + Metaverse","review/use-case demonstration"
+"Luo et al. 2026","context/multimodal","GenAI context-aware DT semantic communication","evaluated framework"
+"Almosharea et al. 2026","vision","adaptive ViT semantic extraction for heterogeneous DT devices","simulation"
+"Chen et al. 2026","text","language-model semantic communication for DT interaction","experimental/simulation evaluation"
+"Mazeas et al. 2026","speech/context to motion","semantic-to-motion industrial avatar/robot DT","system integration feasibility"
