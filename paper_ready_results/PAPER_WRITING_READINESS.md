@@ -2,82 +2,35 @@
 
 Updated: 2026-10-05
 
-## When manuscript writing starts
+## Writing point
+Full COMST drafting starts at **RUN 31**, immediately after **RUN 30 evidence freeze**. Evidence-backed table/figure construction proceeds now.
 
-Full COMST drafting begins after **RUN 30 — Evidence Freeze**. We may prepare table/figure captions and section evidence maps earlier, but not narrative conclusions that could be invalidated by later mining.
+## Active work
+- RUN 02: closest-review novelty saturation — ACTIVE.
+- RUN 03: foundations/history — STARTED, batch 01 verified.
+- RUN 04: communications/5G/6G — STARTED, batch 01 verified.
+- Master BibTeX: STARTED and continuously updated.
+- Bibliography quarantine: ACTIVE.
 
-## Current position
+## What remains before writing
+1. Finish closest-review saturation and direct COMST non-redundancy matrix.
+2. Saturate foundations/history and communications/6G.
+3. Mine XR/rendering, edge/cloud/resource allocation, digital twins, semantic communications.
+4. Mine AI/ML, GenAI/agents, security/privacy/identity/trust.
+5. Mine interoperability/standards, sustainability, applications/deployments.
+6. Complete dataset/testbed inventory.
+7. Complete artifact-level reproducibility audit.
+8. Deduplicate and freeze included corpus.
+9. Falsify/validate every final research gap.
+10. Benchmark Go/No-Go and, if justified, execute reproducible comparison.
+11. Generate final manuscript figures/tables/algorithms.
+12. Final adversarial COMST novelty review.
+13. Evidence freeze.
+14. Write 28–30 page initial manuscript.
+15. Final pre-submission reviewer audit.
 
-- RUN 01: structural integrity CLOSED; corrected workflow execution not independently observed through available connector.
-- RUN 02: ACTIVE — closest-review saturation and novelty falsification.
-- RUN 03–15: domain saturation pending; selected tracks may execute in parallel after RUN 02 has stabilized scope.
-- RUN 16–20: benchmark/reproducibility reconstruction pending.
-- RUN 21–23: corpus freeze, gap freeze, benchmark Go/No-Go pending.
-- RUN 24–27: conditional experimental/new-algorithm track.
-- RUN 28: final manuscript artifacts.
-- RUN 29: final COMST non-redundancy gate.
-- RUN 30: evidence freeze.
-- RUN 31: manuscript writing.
-- RUN 32: pre-submission adversarial audit.
+## Bibliography rule
+Every source used in the manuscript must be in `metaverse_comst_master.bib`. Records with incomplete metadata stay quarantined and cannot be used as final citations.
 
-## What RUN 02 has established so far
-
-Broad novelty claims are unsafe. Prior work already occupies:
-- networked Metaverse technical surveys;
-- architecture surveys;
-- COMST fundamentals/security/privacy survey;
-- enabling-technology taxonomies;
-- gap/open-problem surveys;
-- empirical/maturity reviews;
-- dataset availability analysis;
-- holistic Metaverse systems benchmarking;
-- XR/Metaverse ML benchmarking;
-- resource-allocation benchmarking.
-
-### Candidate differentiator still under audit
-
-A communications-centric, cross-domain evidence system connecting:
-**problem → method/algorithm → workload/dataset → baseline → metric → hardware/network environment → evidence maturity → artifact-level reproducibility → deployment maturity → falsification-tested gap**, with an explicit comparability gate **P,W,D,H,N,B,M,E**.
-
-## Remaining before writing
-
-### Mandatory literature/evidence work
-1. Close RUN 02 through full-text feature audit + saturation.
-2. Foundations/history.
-3. 5G/6G/networking.
-4. XR/rendering.
-5. Edge/cloud/resource allocation.
-6. Digital twins.
-7. Semantic communications.
-8. AI/ML.
-9. GenAI/agents.
-10. Security/privacy/identity/trust.
-11. Interoperability/standards.
-12. Sustainability.
-13. Applications/deployments.
-14. Datasets/testbeds.
-15. Reproducibility/artifact audit.
-
-### Mandatory synthesis gates
-16. Deduplicate and freeze final corpus.
-17. Validate/falsify every final gap.
-18. Decide benchmark Go/No-Go.
-19. Generate final figures/tables.
-20. Re-run strict COMST novelty review.
-21. Freeze evidence.
-
-## Writing trigger
-
-Start RUN 31 only when:
-- no unresolved CRITICAL novelty objection;
-- no HIGH objection affects a headline contribution;
-- search saturation documented;
-- primary evidence supports all major tables/figures;
-- final gap register contains only validated gaps;
-- reproducibility claims are artifact-audited;
-- the manuscript can fit the <=30-page initial COMST budget.
-
-## Expected paper-ready folder
-
-All manuscript inputs live under paper_ready_results/.
-No result should be copied into the manuscript from chat history if a repository-backed version exists.
+## Current readiness
+Approximately 60–62%. The methodology/novelty control is strengthening faster than domain saturation; the largest remaining workload is still primary-study saturation plus reproducibility/deployment extraction.
