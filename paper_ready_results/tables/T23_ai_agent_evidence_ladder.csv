@@ -1,0 +1,7 @@
+study,evidence_class,scale_or_setting,primary_outcome,comparability_warning
+"Hiroi et al. 2026","OPERATIONAL_FIELD_STUDY","31 days; 5,020 unique users; commercial Cluster platform","continuation behavior/user retention","behavioral field evidence; not comparable to network simulation"
+"Hong et al. 2024","USER_STUDY_ABLATION","formative N=16; ablation N=20; user study N=21","usefulness immersion learning during onboarding","human-subject outcomes"
+"Soltanshahi & Maier 2025","EVALUATED_ARCHITECTURE","HAIB/InSC multi-agent architecture","adaptive decision/resource allocation","architecture-level evaluation"
+"Seid et al. 2025","SIMULATION","O-RAN TN-NTN Metaverse","energy latency meta-distance QoE","simulation assumptions required before numeric comparison"
+"Kang et al. 2024","SIMULATION","UAV/RSU vehicular Metaverse","avatar-task migration/resource allocation","simulation assumptions required before numeric comparison"
+"Ayepah-Mensah et al. 2026","SIMULATION_CODE_LINK","urban-scale 6G XR/holographic workloads","SLA violations latency convergence","code link does not imply complete reproducibility"
