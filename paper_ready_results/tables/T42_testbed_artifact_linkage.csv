@@ -1,0 +1,8 @@
+study,testbed,artifact,claim_limit
+"Choudhury et al. 2022","NextG edge-cloud remote rendering","prototype evidence","specific prototype/network conditions"
+"Zhu et al. 2022 EdgeVR","end-to-end live VR + 48-user head traces","empirical system","power/MtoP under tested system"
+"Michaelides et al. 2023","Wi-Fi 6; 1 AP; 3 HMDs","Zenodo 8169785","small physical multi-user topology"
+"Casasnovas et al. 2024","Unity Render Streaming/WebRTC/Wi-Fi 6","Zenodo 10455828","specific applications/frame rates"
+"Shaabanzadeh et al. 2024","experimental traces + simulator","packet traces + CSV + Python scripts","classification/prioritization transfer must be tested"
+"Maura et al. 2024","ALVR/Wi-Fi 6/netem","Zenodo 12773446","ABR evidence under tested impairments"
+"VR Gaming Dataset 2025","ALVR/SteamVR; Quest 2/3","Zenodo 14833195","artifact; scientific claims belong to linked studies"
