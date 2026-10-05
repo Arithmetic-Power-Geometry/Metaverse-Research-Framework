@@ -1,0 +1,8 @@
+study,dataset_or_evidence,transfer_warning
+"Vashisht et al. 2025","CIC-IDS2017","generic intrusion benchmark; not immersive workload"
+"Antonijevic et al. 2025","CICIoT2023; 20% stratified subset","IoT topology/attacks; subset preprocessing must be preserved"
+"Sayed & Hassanien 2024","CIC-IoT-2023 + UNSW-NB15","cross-dataset validation improves robustness but remains network/IoT evidence"
+"Nkoro et al. 2024","IoT/network cyberthreat data","learning-platform framing does not itself create native Metaverse traffic"
+"Thakur et al. 2023","protocol/security analysis","authentication evidence; not IDS dataset evidence"
+"Prajapat et al. 2025","protocol cost + attack analysis","measured computation/communication cost; not operational deployment"
+"SAGTM 2025","anonymous credential/traceability analysis","avatar authentication evidence; deployment transfer unresolved"
