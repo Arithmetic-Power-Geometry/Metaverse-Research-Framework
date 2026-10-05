@@ -3,7 +3,7 @@
 Updated: 2026-10-05
 
 ## Current readiness
-Approximately **91%**.
+Approximately **92%**.
 
 ## Current phase
 Broad domain evidence is substantially assembled. Work has entered artifact-level reproducibility and benchmark/source reconstruction.
@@ -19,7 +19,7 @@ No field-level percentages are permitted until the eligible computational-study 
 1. Expand RUN 16 artifact audit across the eligible computational corpus; deep-audit HFedMS and MetaverseBench next.
 2. RUN 17 PNE011 reconstruction is source-advanced but solver controls remain unresolved. RUN 18 PNE016 and RUN 19 PNE017 have reconstruction registers; both remain execution-blocked pending exact equations/algorithm parameters.
 3. RUN 20 has a provisional reproducibility freeze; final prevalence is blocked until pending/partial audits and RUN 21 eligible-corpus deduplication are complete.
-4. RUN 21 final search saturation + deduplication.
+4. RUN 21 search saturation + DOI/title deduplication is active. Batch 01 added nine verified records; further domain batches remain.
 5. RUN 22 gap falsification/validation freeze.
 6. RUN 23 benchmark Go/No-Go.
 7. RUN 24–27 execute comparisons/new algorithm only if fidelity and failure-frontier gates pass.
