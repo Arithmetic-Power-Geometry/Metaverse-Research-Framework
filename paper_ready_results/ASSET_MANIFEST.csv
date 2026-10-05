@@ -40,3 +40,8 @@ D10,data,Reproducibility audit batches 01-02,active,RUN16,Artifact audit
 R16A,review,RUN16 batch 01 adversarial review,ready,RUN16,Reproducibility quality gate
 T15,table,FL reconstruction comparability matrix,ready,RUN17,FL benchmark gate
 R17A,review,RUN17 batch 01 adversarial review,ready,RUN17,FL reconstruction gate
+D11,data,PNE011 fidelity register,ready,RUN17,Source reconstruction
+D12,data,PNE016 reconstruction register,active,RUN18,Source reconstruction
+D13,data,PNE017 reconstruction register,active,RUN19,Source reconstruction
+T16,table,PNE016 PNE017 comparability gate,ready,RUN19,Cross-paper comparability
+R1819,review,RUN18 RUN19 adversarial reconstruction gate,ready,RUN18-19,Execution safety
