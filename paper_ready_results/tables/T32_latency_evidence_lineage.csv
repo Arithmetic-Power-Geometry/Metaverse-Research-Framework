@@ -1,0 +1,8 @@
+work,year,evidence_class,technical_role
+"Kim et al.",2019,"URLLC techniques + system simulation","physical/network reliability-latency foundation"
+"Na et al.",2020,"simulation + commercial-hardware measurement","mmWave VR feasibility"
+"Zhao et al.",2020,"implemented adaptive Cloud VR system","edge/GPU real-time streaming"
+"Huang et al.",2023,"prototype + user study","5G-mmWave MEC telepresence"
+"Farooq et al.",2025,"measured network testbed","Ethernet/Wi-Fi6/5G delay and jitter"
+"Xu et al. PNE017",2025,"safe-RL system study","MTP-constrained edge-device collaborative VR"
+"Wu et al.",2026,"open-source system + experiments + user study","saliency-guided low-latency cloud VR"
