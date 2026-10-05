@@ -1,0 +1,8 @@
+study_or_resource,evidence_class,what_it_supports,what_it_does_not_support
+"Zhao & You 2023","PROSPECTIVE_SCENARIO_MODEL","potential US energy/emissions/decarbonization effects under adoption scenarios","measured operational carbon reduction"
+"De Giovanni 2023","ANALYTICAL_SUSTAINABILITY_MODEL","Industry 5.0 sustainability mechanisms and trade-offs","measured infrastructure energy/carbon"
+"Rajguru 2024","CONCEPTUAL_FRAMEWORK","social/economic/environmental sustainability dimensions","technical benchmark performance"
+"Esposito et al. 2025","INTEGRATIVE_REVIEW","environmental/climate impacts and mitigation discussion","direct experimental energy/carbon measurement"
+"MetaverseBench 2023","BENCHMARK_SUITE","implemented systems-level Metaverse benchmark precedent","universal cross-paper comparability"
+"XRBench 2023","OPEN_BENCHMARK_ARTIFACT","XR multi-task ML workloads; reproducible benchmark assets","whole-Metaverse benchmark"
+"Hiroi et al. 2026","OPERATIONAL_FIELD_STUDY","31-day commercial-platform AI-agent deployment evidence","infrastructure sustainability measurement"
