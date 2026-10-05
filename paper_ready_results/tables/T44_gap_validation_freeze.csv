@@ -1,0 +1,12 @@
+gap_id,class,status,defensible_statement
+"G22-01","GC","SUPPORTED","Cross-paper numeric comparison requires compatible P-W-D-H-N-B-M-E and metric semantics."
+"G22-02","GR","SUPPORTED_WITH_DENOMINATOR","Artifact provenance and independent reproduction are incompletely demonstrated in the audited eligible corpus; no field-wide percentage until denominator finalization."
+"G22-03","GS","SUPPORTED","Final standards exist, but conformance and operational cross-platform adoption are distinct evidence stages."
+"G22-04","GE","SUPPORTED","Generic IoT/network IDS benchmarks do not by themselves demonstrate transfer to native immersive traffic/adversaries."
+"G22-05","GE/GT","SUPPORTED","Modeled energy proxies must not be interpreted as measured joule/carbon evidence."
+"G22-06","GX","SUPPORTED","Cross-layer evidence exists but is not directly comparable without compatibility controls."
+"G22-07","GR","SUPPORTED","Public datasets/testbeds exist; independent reproduction is a stronger and separate requirement."
+"CG-no-benchmark","GC","REJECTED","Substantial benchmark and reusable testbed evidence exists."
+"CG-no-standards","GS","REJECTED","IEEE/ITU standards and active normative work exist."
+"CG-no-DT-sync","GK","REJECTED","DT synchronization has a multi-year primary-study lineage."
+"CG-no-security-protocol","GK","REJECTED","Authentication, access control, privacy and zero-trust protocols exist."
