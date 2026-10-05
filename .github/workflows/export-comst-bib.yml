@@ -1,5 +1,8 @@
 name: Export COMST bibliography
 on:
+  push:
+    paths:
+      - '.github/workflows/export-comst-bib.yml'
   workflow_dispatch:
 jobs:
   export:
