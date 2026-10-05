@@ -47,3 +47,5 @@ T16,table,PNE016 PNE017 comparability gate,ready,RUN19,Cross-paper comparability
 R1819,review,RUN18 RUN19 adversarial reconstruction gate,ready,RUN18-19,Execution safety
 T17,table,Provisional reproducibility audit counts,provisional,RUN20,Denominator-aware artifact statistics
 R20,review,RUN20 provisional reproducibility review,ready,RUN20,Prevalence claim gate
+T18,table,RUN21 prior-survey nonredundancy matrix,ready,RUN21,Novelty gate
+D14,data,RUN21 verified bibliography saturation batch 01,ready,RUN21,Corpus saturation
