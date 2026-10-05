@@ -3,7 +3,7 @@
 Updated: 2026-10-05
 
 ## Current readiness
-Approximately **86%**.
+Approximately **88%**.
 
 ## Current phase
 Broad domain evidence is substantially assembled. Work has entered artifact-level reproducibility and benchmark/source reconstruction.
@@ -17,7 +17,7 @@ No field-level percentages are permitted until the eligible computational-study 
 
 ## What remains before writing
 1. Expand RUN 16 artifact audit across the eligible computational corpus; deep-audit HFedMS and MetaverseBench next.
-2. RUN 17 FL-aware reconstruction is active; exact source equations/parameters remain before implementation. RUN 18–19 reconstruct PNE016/PNE017.
+2. RUN 17 FL-aware reconstruction is active. PNE011 experiment parameters are source-verified, but full equation/algorithm transcription and fidelity validation remain before implementation. RUN 18–19 reconstruct PNE016/PNE017.
 3. RUN 20 freeze artifact/reproducibility findings.
 4. RUN 21 final search saturation + deduplication.
 5. RUN 22 gap falsification/validation freeze.
