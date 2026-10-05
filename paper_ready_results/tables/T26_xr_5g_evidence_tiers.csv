@@ -1,0 +1,7 @@
+study,evidence_tier,system_context,manuscript_use
+"Du et al. 2023 IEEE Network","SIMULATION/RESOURCE_ALLOCATION","attention-aware customized Metaverse networking","QoE/resource allocation evidence"
+"Mao et al. 2026 IEEE TVT","SIMULATION/STAR-RIS","AR-enabled Metaverse wireless system","RIS-assisted communications/resource evidence"
+"Borgia & Bruno 2026 WoWMoM","NETWORK_COMPUTE_OPTIMIZATION","5G backhaul + MEC + social VR remote rendering","traffic steering/service placement"
+"TVCG 2023 foveated telepresence","PROTOTYPE + USER_STUDY (held bibliography)","~6K 360-degree video over 5G mmWave + edge compute","high-value XR streaming maturity evidence"
+"ComComAp 2025 5G test network","MEASURED_TESTBED (pending bibliography)","Unity server + Meta Quest 3; Ethernet/Wi-Fi6/5G","real network QoS evidence"
+"SPAWC 2025 SC-CEE-Meta","PROTOTYPE/DEVICE_VERIFICATION (pending bibliography)","semantic cloud-edge-end architecture; Meta Quest Pro","semantic communication implementation evidence"
