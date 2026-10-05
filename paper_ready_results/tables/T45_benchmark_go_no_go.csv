@@ -1,0 +1,6 @@
+run,decision,reason
+"RUN23","NO-GO","18 PNE017 fidelity blockers remain"
+"RUN24","BLOCKED_NOT_EXECUTED","faithful baseline unavailable without guessed scientific values"
+"RUN25","NOT_TRIGGERED","no faithful executable baseline for sensitivity/statistics"
+"RUN26","NO-GO_NEW_ALGORITHM","review evidence does not justify inventing an algorithm for novelty"
+"RUN27","NOT_TRIGGERED","novel method not approved"
