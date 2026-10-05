@@ -1,0 +1,6 @@
+cluster,verified_precedent,evidence_type,novelty_consequence
+semantic_AIGC,"Lin et al. 2024 IEEE Network","framework + resource allocation","generic SemCom+AIGC integration occupied"
+stochastic_semantic_resource,"Ng et al. 2024 WCNC","two-stage stochastic integer programming + real Singapore data","semantic resource allocation empirically instantiated"
+vision_semantic_resource,"Liu et al. 2023 GLOBECOM","contest-theoretic allocation","vision-semantic allocation occupied"
+edge_incentive_semantic,"Luong et al. 2024 IEEE Network","DL auction + SemCom simulation","edge incentive/SemCom integration occupied"
+visual_semantic_sustainability,"Jagatheesaperumal et al. 2025 IEEE Communications Magazine","architecture/review perspective","eco-friendly visual semantics occupied at architectural level"
