@@ -1,0 +1,7 @@
+resource,type,scale_or_scope,persistent_identifier,reproducibility_use
+"BOXRR-23","OPEN_XR_DATASET","4,717,215 recordings; 105,852 users; 50+ countries; 30+ devices","10.25350/B5NP4V","large-scale behavioral/motion data"
+"XRBench data","OPEN_BENCHMARK_DATA","MLSys 2023 XR ML benchmark plot/data artifact","10.5281/zenodo.7857382","benchmark artifact positive control"
+"MetaverseBench","IMPLEMENTED_BENCHMARK_SUITE","holistic systems benchmark","10.1016/j.tbench.2023.100138","benchmark precedent"
+"Apsan et al. 2024","WORKLOAD_TRACE_ARCHIVE","Metaverse/VR workload trace collection architecture","10.1145/3629527.3651421","performance-workload reproducibility"
+"RealTHASC","CYBER_PHYSICAL_XR_TESTBED","real-time human-autonomous-system collaboration experiments","10.3389/frvir.2023.1210211","testbed evidence"
+"XR Reality Check 2025","MULTI_DEVICE_TRACKING_TESTBED","five commercial XR devices; 16 scenarios","10.1109/ISMAR67309.2025.00101","held until authorship verification"
