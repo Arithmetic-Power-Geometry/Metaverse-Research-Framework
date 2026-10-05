@@ -1,0 +1,8 @@
+resource,modality,reuse_evidence,persistence
+"Lo et al. 2017","360 video + HMD head/content traces","dataset/testbed described and released","paper DOI; dataset availability documented"
+"Corbillon et al. 2017","head movement, 59 users/5 videos","dataset + collection software released","paper DOI; public resource"
+"CEAP-360VR","questionnaires+emotion+head/eye+physiology","raw/processed data + preprocessing/validation scripts","Zenodo DOI + repository"
+"Kreß et al. 2024","head/eye video + position","CSV/video dataset for ML","open data article"
+"Rubow et al. 2024","paired head/eye trajectories","dataset + collection/processing code","Figshare DOI + GitHub code"
+"BOXRR-23","XR motion","large reusable recording corpus","persistent dataset DOI"
+"XRBench","XR ML benchmark","benchmark data","Zenodo DOI"
