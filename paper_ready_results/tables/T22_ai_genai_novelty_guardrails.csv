@@ -1,0 +1,7 @@
+candidate_claim,status,blocking_evidence,allowed_reframing
+"first AI-for-Metaverse survey",REJECTED,"Huynh-The et al. 2023; Soliman et al. 2024; Fadhel et al. 2024","compare evidence rather than survey breadth"
+"first GenAI-for-Metaverse survey",REJECTED,"Chamola et al. 2024; Zhou et al. 2025","evidence maturity/artifact/deployment synthesis"
+"first generative-VR survey",REJECTED,"Rahimi et al. 2025 IEEE Access","cross-system evidence and comparability"
+"first GenAI ethics/legal synthesis",REJECTED,"Tabassum et al. 2025 IEEE OJCS","technical evidence vs governance/deployment maturity"
+"first distributed-ML/privacy synthesis",REJECTED,"Gardner et al. 2025 ICT Express","artifact/reproducibility and comparable evaluation"
+"GenAI application implies deployment",REJECTED,"review/conceptual evidence cannot establish operational deployment","classify deployment evidence separately"
