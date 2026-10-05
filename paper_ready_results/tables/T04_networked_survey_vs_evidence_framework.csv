@@ -1,0 +1,8 @@
+dimension,prior_networked_survey_2024,current_primary_evidence,our_required_added_value,status
+Communication performance,"explicit gap area","latency reliability QoE delivery rate energy and study-specific utility across PNE001-PNE006","normalize metric semantics and experimental conditions before comparison",SUPPORTED_DIRECTION
+Mobility,"explicit gap area","present in DT/MEC context but not uniformly evaluated","separate claimed mobility relevance from measured mobility experiments",NEEDS_EXTRACTION
+Large-scale operation,"explicit gap area","PNE005 reports scalability; others vary","extract user/device/system scale and distinguish tested scale from narrative claims",NEEDS_EXTRACTION
+End-system architecture,"explicit gap area","device-edge-cloud/DT structures vary","map architectural placement to decisions workloads and evidence",NEEDS_EXTRACTION
+Algorithm comparability,"not identified as an operational cross-paper tuple in audited abstract/summary","RL continual-RL metaheuristic caching/game families use heterogeneous objectives","apply P-W-D-H-N-B-M-E gate and prohibit unsupported rankings",CANDIDATE_DIFFERENTIATOR
+Artifact reproducibility,"not identified as central in audited abstract/summary","current primary records have uneven artifact metadata","audit code data config seeds preprocessing environment",CANDIDATE_DIFFERENTIATOR
+Gap falsification,"prior survey identifies gaps/research directions","our contrary-evidence process already rejected broad no-benchmark claim","document gap promotion/rejection trail",CANDIDATE_DIFFERENTIATOR
