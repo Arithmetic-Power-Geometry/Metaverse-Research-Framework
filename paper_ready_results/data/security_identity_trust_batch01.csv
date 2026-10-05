@@ -1,0 +1,5 @@
+evidence_id,year,source_type,scope_or_control,evidence_character,novelty_or_gap_effect,bibkey_or_standard
+SEC001,2023,"COMST survey","authentication/access control; data management; privacy; threats/countermeasures","broad survey","security/privacy fundamentals occupied",Wang2023COMSTMetaverse
+SEC002,2025,"systematic review","2013-2024 security/privacy; methods; properties; immersive components; evaluation strategies","systematic evidence synthesis","systematic security/privacy review occupied",Rahartomo2025SecurityPrivacy
+SEC003,2026,"conceptual/policy analysis","autonomous AI-agent risks","conceptual evidence","route to security/trust not performance benchmark",Kusters2026AgentRisks
+SEC004,2023,"IEEE standard","cross-Metaverse identity framework requirements","normative standard","identity requirements/architecture not untouched gap",IEEE3812_1_2023
