@@ -1,0 +1,11 @@
+field,score_rule,interpretation
+code,"0 absent/not identified; 1 public code identified","source implementation availability"
+data,"0 absent/not identified; 1 public data/input artifact identified","input/output data availability"
+config_params,"0 insufficient; 1 substantive configs/hyperparameters/parameter provenance available","ability to reconstruct experiment settings"
+seeds_randomness,"0 absent/unclear; 1 seeds or explicit stochastic/repetition protocol available","stochastic reproducibility"
+environment_dependencies,"0 insufficient; 1 dependencies/build/runtime environment specified","environment reconstruction"
+execution_instructions,"0 absent; 1 executable/reproduction commands/scripts supplied","operational rerun path"
+persistent_artifact,"0 repository-only/nonpersistent/unclear; 1 DOI/archive/release snapshot identified","long-term artifact identity"
+independent_reproduction,"0 not identified; 1 independent reproduction/replication evidence identified","external verification"
+total_score,"sum 0-8","descriptive audit score only; not scientific-quality score"
+classification,"0-1 R0; 2-3 R1; 4-5 R2; 6-7 R3; 8 R4","R0 undocumented; R1 inspectable fragments; R2 reconstructable; R3 rerunnable/persistently archived; R4 independently reproduced"
