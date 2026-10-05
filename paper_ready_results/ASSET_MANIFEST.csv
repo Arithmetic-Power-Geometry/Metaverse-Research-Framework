@@ -19,3 +19,7 @@ R04B2,review,RUN04 batch 02 review,ready,RUN04,Comparability quality gate
 F01,figure,Closest-review feature overlap visualization,planned,RUN02,Introduction/non-redundancy
 F02,figure,Evolution from virtual worlds to evidence-normalized networked Metaverse,planned,RUN03,Background/evolution
 A01,algorithm,First faithful benchmark algorithm specification,blocked,RUN23+,Experimental track only if benchmark gate passes
+T06,table,Algorithm-family comparability,batch-01-ready,RUN05-06,Comparative evidence
+D05,data,XR edge comparability batch 01,ready,RUN05-06,T06 source
+R0506,review,RUN05-06 batch 01 adversarial review,ready,RUN05-06,Comparability quality gate
+BIB01,bibliography,Master verified BibTeX,active-continuous,ALL,Target 200+ valid references by evidence freeze
