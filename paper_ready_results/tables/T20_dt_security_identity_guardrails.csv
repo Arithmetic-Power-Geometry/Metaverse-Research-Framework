@@ -1,0 +1,6 @@
+claim_candidate,status,evidence,manuscript_rule
+"Metaverse identity lacks a standards framework",REJECTED,"IEEE 3812.1-2023 active identity-framework standard","distinguish standard existence from implementation/conformance/adoption"
+"DT synchronization is unexplored",REJECTED,"Han et al. 2023 dynamic hierarchical IoT-assisted DT synchronization","study synchronization evidence/comparability instead"
+"Metaverse authentication lacks concrete protocols",REJECTED,"Yadav et al. 2023 blockchain + ZKP protocol with formal verification","audit threat model/evaluation/deployment evidence"
+"Metaverse security taxonomy is novel",REJECTED,"Huang et al. 2023; prior COMST; Sharma et al. 2024","do not claim generic taxonomy novelty"
+"Zero-trust Metaverse security architecture is novel",REJECTED,"Sharma et al. 2024 proposes zero-trust architecture","focus evidence maturity/conformance/deployment"
