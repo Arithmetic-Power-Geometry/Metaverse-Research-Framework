@@ -1,1 +1,23 @@
-\begin{table}[H]\centering\caption{Positioning Against Closest Metaverse Surveys}\label{tab:surveycomparison}\scriptsize\begin{tabularx}{\columnwidth}{p{0.23\columnwidth}p{0.10\columnwidth}YY}\toprule Survey & Year & Main emphasis & Revision-1 implication\\\midrule Wang et al. & 2023 & broad technologies/applications & broad taxonomy occupied\\ Zhang et al. & 2024 & networked foundations/gaps & network framing occupied\\ Resource-allocation review & 2024 & edge/resource algorithms & benchmark novelty occupied\\ Interoperability review & 2025 & ecosystem interoperability & taxonomy occupied\\ Security/privacy SLR & 2025 & security/privacy & taxonomy occupied\\ Industrial Metaverse COMST & 2026 & industrial systems & industrial breadth occupied\\ \textbf{This survey} & 2026 & \textbf{evidence architecture} & \textbf{artifact audit + C0--C3 + gap falsification}\\\bottomrule\end{tabularx}\end{table}
+\begin{table*}[!t]
+\centering
+\caption{Positioning Against Representative Metaverse Surveys Using Neutral and Evidence-Centered Dimensions}
+\label{tab:surveycomparison}
+\scriptsize
+\setlength{\tabcolsep}{3.2pt}
+\renewcommand{\arraystretch}{1.12}
+\begin{tabularx}{\textwidth}{p{0.16\textwidth}c c c c c c c c c c c}
+\toprule
+Survey & Year & Net./Edge & DT & SemCom & AI & Sec. & Standards & Sust. & Data/Testbed & Reprod. & Gap validation\\
+\midrule
+Wang et al. & 2023 & \checkmark & \checkmark & -- & \checkmark & \checkmark & -- & -- & -- & -- & Narrative\\
+Zhang et al. & 2024 & \checkmark & \checkmark & \checkmark & \checkmark & \checkmark & -- & -- & -- & -- & Narrative\\
+Resource-allocation review & 2024 & \checkmark & -- & -- & \checkmark & -- & -- & -- & -- & -- & Algorithmic\\
+Interoperability review & 2025 & \checkmark & \checkmark & -- & -- & \checkmark & \checkmark & -- & -- & -- & Narrative\\
+Security/privacy SLR & 2025 & -- & -- & -- & -- & \checkmark & partial & -- & partial & -- & Systematic\\
+Industrial Metaverse COMST & 2026 & \checkmark & \checkmark & partial & \checkmark & \checkmark & \checkmark & partial & partial & -- & Narrative\\
+\textbf{This survey} & \textbf{2026} & \checkmark & \checkmark & \checkmark & \checkmark & \checkmark & \checkmark & \checkmark & \checkmark & \textbf{R0--R4 audit} & \textbf{Contrary-evidence test}\\
+\bottomrule
+\end{tabularx}
+\vspace{1mm}
+\footnotesize \emph{Note:} Neutral domain-coverage columns precede the evidence-centered dimensions. ``Partial'' denotes explicit but non-central treatment. The table does not claim that prior surveys should have used the present framework; it separates conventional scope from this survey's additional evidence-audit functions.
+\end{table*}
