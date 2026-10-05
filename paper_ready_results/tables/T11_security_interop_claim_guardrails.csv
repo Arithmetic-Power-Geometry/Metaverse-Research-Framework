@@ -1,0 +1,7 @@
+claim_or_question,unsafe_wording,evidence_safe_wording,status
+"Metaverse interoperability","There is no standard interoperability framework","Interoperability remains fragmented despite published and emerging normative frameworks","CORRECTED"
+"Cross-platform identity","Identity interoperability is unstandardized","IEEE 3812.1-2023 defines general requirements for an identity framework; implementation evidence remains separate","CORRECTED"
+"DT interoperability","No interface model exists","ITU-T Y.4239 and Y.4240 define a reference model and foundational interfaces","CORRECTED"
+"Cross-platform architecture","No architecture exists","ITU-T H.770.1 specifies scenarios/requirements and H.770.2 provides a high-level architecture","CORRECTED"
+"Prior survey coverage","Interoperability lacks systematic synthesis","A 2025 IEEE EMR systematic review analyzes 74 publications","CORRECTED"
+"Standards maturity","Standards solve interoperability","Standard existence is not evidence of implementation conformance adoption or deployment","SAFE"
