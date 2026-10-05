@@ -1,16 +1,15 @@
-# Revision 1 — COMST Reconstruction
+# Revision 1 — Final COMST Empirical Reconstruction
 
-Revision 1 responds point-by-point to the strict COMST mock review dated 2026-10-05.
+This folder contains the artifact layer for the 2026-10-05 hostile COMST re-review.
 
-The revision changes the title from deployment readiness to deployment evidence; adds quantitative abstract/conclusion results; adds a survey-of-surveys, extraction codebook, C0–C3 compatibility coding, multidimensional evidence vector, explicit R0–R4 definitions, gap-falsification registry, denominator rules, AI/security/standards/sustainability matrices, a failed-reconstruction case study, actionable agenda, and threats to validity.
+Major additions in the second empirical pass:
+- structured evidence-register characterization with explicit denominator boundaries;
+- five-family applied C0-C3 compatibility audit;
+- expanded communications core with rendering/offloading, radio/resource allocation, edge/cloud orchestration, mobility/learning control, and multi-objective optimization;
+- expanded DT, semantic communication, security, and sustainability evidence matrices;
+- post-freeze coverage audit with dated query blocks;
+- standards freshness recheck for IEEE 2048.202-2026 and 2048.203-2026;
+- reader-facing residual gap IDs simplified to G1-G7;
+- 30-section reviewer traceability register.
 
-Integrity rule: no historical PRISMA counts, corpus-wide kappa, domain percentages, or field-wide reproducibility percentages are invented. Unsupported requested statistics are explicitly reported as limitations.
-
-Subfolders:
-- equations/
-- tables/
-- figures/
-- protocols/
-- reviews/
-
-The final compiled LaTeX package is generated from these Revision 1 artifacts and the frozen 200-entry bibliography.
+Integrity rule: no historical PRISMA counts, corpus-wide kappa, pairwise heatmap cells, all-eligible R0-R4 distribution, or field-wide percentages are invented. The all-eligible artifact audit and independent second-coder kappa remain OPEN_EXTERNAL_VALIDATION.
