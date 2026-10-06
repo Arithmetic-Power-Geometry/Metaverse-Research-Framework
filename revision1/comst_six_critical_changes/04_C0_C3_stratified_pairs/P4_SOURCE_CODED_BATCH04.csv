@@ -1,0 +1,9 @@
+pair_id,study_a,study_b,stratum,P,W,D,H,N,B,M,E,hard_mismatch,C_class,status,rationale
+P4-V14,PNE001,PNE003,"wireless immersive services/different task",0.5,0.5,?,?,1,0.5,0.5,1,0,C2,"source-coded","Both wireless immersive optimization with RL experiments; offloading/reliability and heterogeneous-video FPS/cybersickness require normalization."
+P4-V15,PNE001,PNE010,"wireless resource allocation/different application",0.5,0.5,?,?,1,0.5,0.5,1,0,C2,"source-coded","Both allocate wireless resources for immersive services; AAHC latency/reliability versus MAR utility/resolution."
+P4-V16,PNE003,PNE010,"MAR/VR service optimization",0.5,0.5,?,?,1,0.5,0.5,1,0,C2,"source-coded","Both optimize immersive visual service quality, but 360-video FPS/cybersickness differs from MAR resolution/utility."
+P4-V17,PNE004,PNE009,"digital-twin MEC collaboration",0.5,0.5,?,?,1,0.5,0.5,0.5,0,C2,"source-coded","Both DT-assisted MEC/resource allocation; PNE009 additionally uses INC/URLLC and joint association/offloading."
+P4-V18,PNE007,PNE008,"cloud-edge-end/MEC AI optimization",0.5,0.5,?,?,0.5,0.5,0.5,1,0,C2,"source-coded","Cache optimization via DRL+GCN versus meta-RL offloading/allocation; conditionally comparable at resource-efficiency level."
+P4-V19,PNE003,PNE004,"incompatible negative control",0,0,?,?,0.5,0,0,0.5,1,C0,"source-coded","Heterogeneous 360-video frame optimization and DT construction/synchronization case study do not support direct ranking."
+P4-V20,PNE006,PNE008,"immersive MEC computation",0.5,1,?,?,0.5,0.5,0.5,1,0,C2,"source-coded","Both immersive MEC computation/resource coordination; workload/task definitions differ."
+P4-V21,PNE009,PNE010,"resource allocation/different system architecture",0.5,0.5,?,?,0.5,0.5,0.5,1,0,C2,"source-coded","Joint DT/INC association-offloading-allocation versus MAR resource/resolution control."
