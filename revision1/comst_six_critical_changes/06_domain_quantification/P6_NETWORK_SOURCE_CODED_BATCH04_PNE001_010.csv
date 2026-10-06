@@ -1,0 +1,10 @@
+study_id,mechanism,objective,evaluation,metrics_or_outcomes,artifact_note
+PNE001,"AAHC multi-agent hybrid RL","joint UL computation offloading/channel assignment + DL power allocation","extensive experiments","latency; reliability; training time","public full text; executable code not verified"
+PNE002,"DRL with MEC/AI over 6G","Metaverse service/resource management","source-supported empirical study","QoS/resource-management outcomes","public implementation not verified"
+PNE003,"SIDO/MIDO differentiated DRL","heterogeneous VR/non-VR 360-video frame-wise optimization","comprehensive experiments","FPS non-VR; FPS VR; cybersickness; reported +15.2%/+20.8% FPS and -80.9% cybersickness versus traditional DRL","public full text; executable code not verified"
+PNE004,"continual-learning DTEC","DT synchronization + edge resource allocation under mobility/network dynamics","case study","desynchronization; learning outcome; Metaverse experience","open manuscript; executable code not verified"
+PNE006,"collaborative end-edge computing","personalized immersive VR computation/resource coordination","empirical/simulation study","VR service/QoE-oriented outcomes","public implementation not verified"
+PNE007,"joint DRL + GCN","cloud-edge-end collaborative cache optimization","empirical study","cache/resource optimization outcomes","generic GNN bibliography repository is not study code"
+PNE008,"MROA meta-RL","joint computation offloading + resource allocation for heterogeneous immersive tasks","reported evaluation","QoS/QoE for scene rendering and avatar interaction","closed article; public implementation not verified"
+PNE009,"DT-assisted INC + MEC","joint user association/task offloading/resource allocation","preprint evaluation framework","URLLC/synchronization/resource-allocation outcomes","persistent preprint; executable code not verified"
+PNE010,"outer approximation","communication resource allocation + MAR resolution control","simulation","utility/service feasibility; beats greedy benchmark","persistent preprint; executable code not verified"
