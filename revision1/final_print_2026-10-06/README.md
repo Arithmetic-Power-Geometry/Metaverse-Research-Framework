@@ -1,33 +1,51 @@
-# Final print package - 2026-10-06
+# Final print package — Version V1
 
-This folder records the manuscript-level changes applied after the hostile COMST review and points to the auditable Revision 1 sources.
+This directory records the final manuscript-facing state for:
 
-## Final-print revisions
-- Title changed to: **Evidence in Networked Metaverse Systems: A Survey of Comparability, Reproducibility, and Deployment**.
-- Abstract rewritten around field findings rather than internal register counts.
-- Introduction now leads with empirical findings before the evidence framework.
-- Fourth contribution changed from bibliography size to the cross-domain evidence audit.
-- Pair-level C0-C3 and family-level synthesis were explicitly separated so that a family-level C1 summary cannot override pair-level hard-mismatch C0 decisions.
-- Residual evidence gaps consolidated from G1-G7 to G1-G6 by merging dataset/testbed-access and artifact/reproduction discontinuity.
-- Threats-to-validity section now distinguishes released validation protocols from genuinely pending external validation.
-- Data/code availability and conclusion point to revision1/comst_six_critical_changes.
-- Local LaTeX build completed successfully as a 23-page IEEE two-column PDF with no unresolved references after the final pass.
+**Mohammad Amir Khusru Akhtar and Anand Nayyar, “Evidence in Networked Metaverse Systems: Comparability, Reproducibility, and Deployment.”**
 
-## Six critical changes
-The operational protocols are in:
-revision1/comst_six_critical_changes/
+## Archival version
 
-The package deliberately does not fabricate:
-- formal Scopus/Web of Science/IEEE Xplore PRISMA counts,
-- a second-human Cohen kappa,
-- denominator-complete R0-R4 prevalence,
-- a 180-pair C0-C3 distribution,
-- source-by-source prior-survey gap extraction results.
+**Version:** V1  
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.23185839
 
-Those remain external evidence tasks until actually executed.
+Preferred archival citation:
 
-## Updated manuscript-facing source files
-- revision1/tables/T_R1_05_gap_registry.tex
-- revision1/tables/T_R1_12_actionable_agenda.tex
+> Akhtar, M. A. K. (2026). *Evidence in Networked Metaverse Systems: Comparability, Reproducibility, and Deployment* (Version V1). Zenodo. https://doi.org/10.5281/zenodo.23185839
 
-The complete compiled final print source and PDF are delivered in the downloadable final package supplied with this revision.
+The repository root `CITATION.cff` contains machine-readable citation metadata.
+
+## Final manuscript state
+
+The final paper uses the frozen 200-record evidence base and the manuscript-facing evidence boundaries recorded in `revision1/`.
+
+Key reported denominators are preserved exactly:
+
+- Frozen bibliography: 200 records.
+- Coder B second review: 50/200 records (25%), adjudicative approve/modify/reject validation.
+- Executed source-coded comparability subset: 21 pairs — C0=2 (9.5%), C1=6 (28.6%), C2=13 (61.9%), C3=0.
+- Prospective comparison frame: 180 pairs; unexecuted pairs are not imputed.
+- Networking primary navigation roster: 38 records; source-level first-pass artifact inspection is separately bounded.
+- Residual evidence agenda: G1–G6.
+
+## Scientific integrity boundary
+
+The final manuscript does not reconstruct unavailable historical database counts, does not manufacture Cohen’s κ from an adjudicative second-review design, does not extrapolate the 21-pair distribution to the 180-pair frame, and does not report corpus-wide R0–R4 prevalence without a fully adjudicated eligible denominator.
+
+Unresolved provenance is retained as unresolved.
+
+## Repository pointers
+
+- `revision1/main.tex` — manuscript source.
+- `revision1/metaverse_comst_master.bib` — frozen bibliography.
+- `revision1/tables/` — manuscript-facing tables.
+- `revision1/figures/` — manuscript-facing figure sources.
+- `revision1/algorithms/` — comparability implementation/procedure material.
+- `revision1/comst_six_critical_changes/` — critical methodological evidence and audit records.
+- `revision1/final_print_2026-10-06/REVIEWER_SUGGESTION_TRACEABILITY.md` — reviewer-response traceability.
+
+## Authors
+
+Mohammad Amir Khusru Akhtar — Faculty of Computing and Information Technology, Usha Martin University, Ranchi, Jharkhand, India.
+
+Anand Nayyar — School of Computer Science and Artificial Intelligence (SCA), Duy Tan University, Da Nang, Viet Nam. Corresponding author.
