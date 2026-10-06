@@ -1,0 +1,7 @@
+publisher_or_index,query_scope,example_title,year,doi_or_identifier,role
+IEEE Xplore,semantic communication/security,A Survey on Semantic Communication Networks: Architecture Security and Privacy,2025,10.1109/COMST.2024.3516819,coverage validation
+IEEE Xplore,digital twin/security,A Survey on Digital Twins: Architecture Enabling Technologies Security and Privacy and Future Prospects,2023,10.1109/JIOT.2023.3263909,coverage validation
+IEEE Xplore,metaverse/federated learning,Federated Learning for the Metaverse: A Short Survey,2023,10.1109/iMETA59369.2023.10294796,coverage validation
+ScienceDirect,semantic communication/edge/security,Semantic communication-driven offloading for MEC-integrated D2D networks: A security and energy perspective,2026,10.1016/j.adhoc.2025.104046,coverage validation
+ScienceDirect,digital twin/metaverse,Pivotal role of digital twins in the metaverse: A review,2025,10.1016/j.dcan.2024.12.003,coverage validation
+Springer Nature,digital twin/edge/security,Secure computation offloading for data leakage prevention in digital twin edge networks,2026,10.1007/s10586-026-05950-z,coverage validation
