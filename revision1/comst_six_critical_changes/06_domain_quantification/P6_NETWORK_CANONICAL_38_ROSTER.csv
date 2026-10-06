@@ -1,0 +1,39 @@
+record_id,bibkey,title,canonical_network38_status,evidence_status,role_note
+N001,Yu2023AAHC,"Asynchronous Hybrid Reinforcement Learning for Latency and Reliability Optimization in the Metaverse Over Wireless Communications",INCLUDE,source-coded,PNE001
+N002,Yu2023Web3Metaverse,"Mobile Edge Computing and AI Enabled Web3 Metaverse over 6G Wireless Communications: A Deep Reinforcement Learning Approach",INCLUDE,source-coded,PNE002
+N003,Yu2023Heterogeneous360,"Heterogeneous 360 Degree Videos in Metaverse: Differentiated Reinforcement Learning Approaches",INCLUDE,source-coded,PNE003
+N004,Yu2024BiDirectionalDT,"Bi-Directional Digital Twin and Edge Computing in the Metaverse",INCLUDE,source-coded,PNE004
+N005,Yu2024QoEDigitalTwin,"Attention-Based QoE-Aware Digital Twin Empowered Edge Computing for Immersive Virtual Reality",INCLUDE,source-coded,PNE005
+N006,QUARANTINED_PENDING_AUTHORS,"Enhancing Resource Allocation Efficiency for Collaborative End-Edge Tasks in the Metaverse’s Virtual Reality",INCLUDE,source-coded,PNE006
+N007,PNE007,"Joint DRL and GCN-based Cloud-Edge-End collaborative cache optimization for metaverse scenarios",INCLUDE,source-coded,PNE007
+N008,PNE008,"Meta-Reinforcement Learning for Computation Offloading and Resource Allocation in MEC-Enabled Immersive Metaverse",INCLUDE,source-coded,PNE008
+N009,PNE009,"Digital Twin-Assisted In-Network and Edge Collaboration for Joint User Association, Task Offloading, and Resource Allocation in the Metaverse",INCLUDE,source-coded,PNE009
+N010,PNE010,"Resource Allocation and Resolution Control in the Metaverse with Mobile Augmented Reality",INCLUDE,source-coded,PNE010
+N011,Zhou2025FLMAR,"Resource Allocation of Federated Learning for the Metaverse With Mobile Augmented Reality",INCLUDE,source-coded,PNE011
+N012,QUARANTINED_AUTHORS,"Energy-Efficient Anti-Jamming Metaverse Resource Allocation Based on Reinforcement Learning",INCLUDE,source-coded,PNE012
+N013,PNE013,"Data trading, power control and resource allocation algorithms for metaverse platform",INCLUDE,source-coded,PNE013
+N014,PNE014,"Human-Centric Resource Allocation for the Metaverse With Multiaccess Edge Computing",INCLUDE,source-coded,PNE014
+N015,QUARANTINED_AUTHORS,"Federated Reinforcement Learning-Based Resource Allocation in O-RAN Slicing for Metaverse",INCLUDE,source-coded,PNE015
+N016,Liu2025VRLeasing,"QoE-Oriented Cooperative VR Rendering and Dynamic Resource Leasing in Metaverse",INCLUDE,source-coded,PNE016
+N017,Xu2025InteractiveVR,"Wireless Multi-User Interactive Virtual Reality in Metaverse With Edge-Device Collaborative Computing",INCLUDE,source-coded,PNE017
+N018,PNE018,"Resource Allocation and QoE Maximization in Aerial MEC-empowered Metaverse Service: A CCM-Multi-agent DRL approach",INCLUDE,source-coded,PNE018
+N019,Xu2026NUMA,"Truthful mechanism for service utility maximization in edge-enabled metaverse based on NUMA",INCLUDE,source-coded,PNE019
+N020,Feng2025ExperienceOptimization,"Resource Allocation for Metaverse Experience Optimization: A Multi-Objective Multi-Agent Evolutionary Reinforcement Learning Approach",INCLUDE,source-registered,RA001
+N021,Wang2025WVRTPMOA,"DRL-Based Latency-Energy Offloading Optimization Strategy in Wireless VR Networks With Edge Computing",INCLUDE,source-verified,XRE001
+N022,Choudhury2022NextGVR,"Experimental evaluation of virtual reality applications running on next-gen network scenarios with edge cloud assistance",INCLUDE,bibliographic-source-registered,testbed/real-network XR
+N023,Casasnovas2024WiFiVR,"Experimental evaluation of interactive Edge/Cloud Virtual Reality gaming over Wi-Fi using Unity Render Streaming",INCLUDE,bibliographic-source-registered,testbed/real-network XR
+N024,Zhu2022EdgeVR,"Power-efficient live virtual reality streaming using edge offloading",INCLUDE,bibliographic-source-registered,edge XR
+N025,Shaabanzadeh2024VRTraffic,"Virtual reality traffic prioritization for Wi-Fi quality of service improvement using machine learning classification techniques",INCLUDE,bibliographic-source-registered,network XR
+N026,Maura2024ABRVR,"Experimenting with Adaptive Bitrate Algorithms for Virtual Reality Streaming over Wi-Fi",INCLUDE,bibliographic-source-registered,network XR
+N027,Michaelides2023WiFi6Mayhem,"Is Wi-Fi 6 Ready for Virtual Reality Mayhem? A Case Study Using One AP and Three HMDs",INCLUDE,bibliographic-source-registered,testbed XR
+N028,Michaelides2024FrameRate,"Responsive and Timely Virtual Reality Gaming: Which Frame Rate Should One Choose?",INCLUDE,bibliographic-source-registered,XR network/QoE
+N029,Masaracchia2024RISDT,"Toward the Metaverse Realization in 6G: Orchestration of RIS-Enabled Smart Wireless Environments via Digital Twins",INCLUDE,bibliographic-source-registered,6G/DT network
+N030,AyepahMensah2026LLMOrchestration,"AI-Native Cloud-Edge Orchestration for 6G Metaverse Networks: An LLM-Guided Multi-Agent DRL Approach",INCLUDE,bibliographic-source-registered,6G edge orchestration
+N031,Hou2024EfficientFLMetaverse,"Efficient Federated Learning for Metaverse: Dynamic User Selection, Gradient Quantization and Resource Allocation",INCLUDE,bibliographic-source-registered,FL/network
+N032,Si2022ResourceResolution,"Resource Allocation and Resolution Control in the Metaverse with Mobile Augmented Reality",INCLUDE,bibliographic-source-registered,MAR resource allocation duplicate/version needs final dedup check
+N033,Hashima2023AdvancedLearning,"Advanced Learning Algorithms for Resource Allocation in Metaverse",INCLUDE,bibliographic-source-registered,resource allocation
+N034,Xu2023EdgeIntelligence,"Edge Intelligence for the Metaverse",INCLUDE,bibliographic-source-registered,edge/network
+N035,Lim2023EdgeIntelligence,"Edge Intelligence for the Metaverse: A Survey/Framework Record",REVIEW_REQUIRED,bibliographic-only,possible secondary record; must not enter empirical denominator until adjudicated
+N036,Du2023AttentionQoE,"Attention-aware QoE/resource allocation Metaverse study",INCLUDE,bibliographic-source-registered,network/QoE
+N037,Du2023RethinkingQoE,"Rethinking QoE for Metaverse services",INCLUDE,bibliographic-source-registered,network/QoE
+N038,Seid2025ORANTNNTN,"O-RAN/TN-NTN resource orchestration for Metaverse",INCLUDE,bibliographic-source-registered,O-RAN/network
