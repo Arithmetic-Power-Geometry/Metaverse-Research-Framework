@@ -105,3 +105,9 @@ If you use this repository, framework, evidence architecture, or its released ar
 > Akhtar, M. A. K. (2026). *Evidence in Networked Metaverse Systems: Comparability, Reproducibility, and Deployment* (Version V1). Zenodo. https://doi.org/10.5281/zenodo.23185839
 
 Machine-readable citation metadata is provided in `CITATION.cff`.
+## License and copyright
+
+Copyright © 2026 Mohammad Amir Khusru Akhtar.
+
+The repository software and code are released under the **Apache License 2.0**. See `LICENSE` for details.
+
