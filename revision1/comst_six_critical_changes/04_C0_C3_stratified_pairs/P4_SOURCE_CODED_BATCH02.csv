@@ -1,0 +1,4 @@
+pair_id,study_a,study_b,stratum,P,W,D,H,N,B,M,E,hard_mismatch,C_class,status,rationale
+P4-V05,PNE011,PNE016,"same broad domain/different task",0,0.5,?,?,0.5,0.5,0,0.5,1,C1,"source-coded","FL/MAR energy-time-accuracy optimization versus cooperative VR rendering/resource leasing with EdgeVRQoE; task and metric semantics block direct ranking."
+P4-V06,PNE011,PNE017,"same broad domain/different task",0,0.5,?,?,0.5,0.5,0,0.5,1,C1,"source-coded","FL object-detection training versus interactive VR queue/rendering control; accuracy/energy/time metrics versus sensor-age/device-power/MTP."
+P4-V07,PNE016,PNE017,"same task/different metric semantics",0.5,1,?,0.5,1,0.5,0,1,1,C1,"source-coded","Both are multi-user VR edge-computing studies, but EdgeVRQoE/rendering-delay/visual-quality and sensor-age/device-power/MTP are not directly equivalent."
