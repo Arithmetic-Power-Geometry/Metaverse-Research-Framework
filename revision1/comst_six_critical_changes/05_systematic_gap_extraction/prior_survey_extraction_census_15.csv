@@ -1,0 +1,16 @@
+review_id,title,year,venue,doi,extraction_status
+R001,"A Survey on the Metaverse: The State-of-the-Art, Technologies, Applications, and Challenges",2023,"IEEE Internet of Things Journal","10.1109/JIOT.2023.3278329",FULL_TEXT_GAP_EXTRACTION_REQUIRED
+R002,"Toward Metaverse of everything: Opportunities, challenges, and future directions of the next generation of visual/virtual communications",2023,"Journal of Network and Computer Applications","10.1016/j.jnca.2023.103675",FULL_TEXT_GAP_EXTRACTION_REQUIRED
+R003,"Interoperability of the Metaverse: A Digital Ecosystem Perspective Review",2025,"IEEE Engineering Management Review","10.1109/EMR.2025.3564923",FULL_TEXT_GAP_EXTRACTION_REQUIRED
+R004,"Metaverse Applications: Challenges, Limitations and Opportunities - A Systematic Literature Review",2025,"Information and Software Technology","10.1016/j.infsof.2025.107701",FULL_TEXT_GAP_EXTRACTION_REQUIRED
+R005,"Metaverse security and privacy research: A systematic review",2025,"Computers & Security","10.1016/j.cose.2025.104602",FULL_TEXT_GAP_EXTRACTION_REQUIRED
+R006,"Metaverse meets distributed machine learning: A contemporary review on the development with privacy-preserving concerns",2025,"ICT Express","10.1016/j.icte.2025.04.008",FULL_TEXT_GAP_EXTRACTION_REQUIRED
+R007,"The (Un)sustainability of the Metaverse: A topic modeling analysis of social, economic, and environmental impacts",2026,"Technology in Society","10.1016/j.techsoc.2025.103095",FULL_TEXT_GAP_EXTRACTION_REQUIRED
+R008,"Metaverse for Sustainable Development in a bibliometric analysis and systematic literature review",2024,"Journal of Cleaner Production","10.1016/j.jclepro.2024.140610",FULL_TEXT_GAP_EXTRACTION_REQUIRED
+R009,"Comprehensive survey on resource allocation for edge-computing-enabled metaverse",2024,"Computer Science Review","10.1016/j.cosrev.2024.100680",FULL_TEXT_GAP_EXTRACTION_REQUIRED
+R010,"Artificial intelligence for the metaverse: A survey",2023,"Engineering Applications of Artificial Intelligence","",FULL_TEXT_GAP_EXTRACTION_REQUIRED
+R011,"Blockchain for the metaverse: A Review",2023,"Future Generation Computer Systems","",FULL_TEXT_GAP_EXTRACTION_REQUIRED
+R012,"Survey of fault management techniques for edge-enabled distributed metaverse applications",2024,"Computer Networks","10.1016/j.comnet.2024.110803",FULL_TEXT_GAP_EXTRACTION_REQUIRED
+R013,"Socially beneficial metaverse: Framework, technologies, applications, and challenges",2025,"Computer Networks","10.1016/j.comnet.2025.111198",FULL_TEXT_GAP_EXTRACTION_REQUIRED
+R014,"Digital twins-enabled game theoretical models and techniques for metaverse Connected and Autonomous Vehicles: A survey",2025,"Journal of Network and Computer Applications","10.1016/j.jnca.2025.104138",FULL_TEXT_GAP_EXTRACTION_REQUIRED
+R015,"Is the metaverse really coming to fruition? A survey of applied metaverse and extended reality",2026,"High-Confidence Computing","10.1016/j.hcc.2025.100376",FULL_TEXT_GAP_EXTRACTION_REQUIRED
