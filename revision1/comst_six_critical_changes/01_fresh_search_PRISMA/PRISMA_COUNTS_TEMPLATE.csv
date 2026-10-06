@@ -1,0 +1,15 @@
+stage,count,source
+identified_ieee_xplore,,formal_database_export
+identified_scopus,,formal_database_export
+identified_web_of_science,,formal_database_export
+identified_acm_dl,,formal_database_export
+identified_other_sources,,supplementary_if_predeclared
+total_identified,,calculated
+duplicates_removed,,dedup_ledger
+records_screened,,calculated
+records_excluded_title_abstract,,screening_ledger
+full_text_sought,,calculated
+full_text_not_retrieved,,screening_ledger
+full_text_assessed,,calculated
+full_text_excluded,,full_text_exclusion_ledger
+studies_included,,prospective_corpus
