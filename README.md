@@ -1,57 +1,107 @@
-# Metaverse Research Framework
+# Evidence in Networked Metaverse Systems
 
-A reproducible research framework for systematic analysis of the networked Metaverse, including architectures, enabling technologies, algorithms, datasets, benchmarks, reproducibility, comparative evidence, and open research problems.
+## Comparability, Reproducibility, and Deployment
 
-## Research workflow
+This repository contains the research software, structured evidence files, validation scripts, source registers, and supporting artifacts for:
 
-1. Define the review protocol and research questions.
-2. Search and screen foundational and current literature.
-3. Extract structured evidence using a common schema.
-4. Build taxonomies for architectures, technologies, problems, algorithms, datasets, metrics, and evaluation settings.
-5. Audit claim–evidence alignment and reproducibility.
-6. Identify comparison gaps, evidence gaps, cross-layer gaps, and trade-off gaps.
-7. Reproduce and normalize comparable algorithms where sufficient public evidence exists.
-8. Develop a new method only when the evidence demonstrates a specific unresolved algorithmic limitation.
-9. Execute benchmark workflows and generate versioned artifacts.
-10. Synthesize the validated results into the final scholarly review.
+**Mohammad Amir Khusru Akhtar and Anand Nayyar, “Evidence in Networked Metaverse Systems: Comparability, Reproducibility, and Deployment.”**
 
-The repository is intended to keep literature evidence, computational evaluation, and generated research artifacts traceable and reproducible.
+The study treats **evidence rather than technology labels as the unit of synthesis**. The framework links claims to problem definitions, workloads, datasets/inputs, hardware, network/system conditions, baselines, metric semantics, evaluation protocols, artifacts, reproduction evidence, deployment evidence, and standards evidence.
 
-## Target scope
+## Version V1 and archival citation
 
-The primary focus is the networked Metaverse and its intersection with communications and networking, including:
+**Akhtar, M. A. K. (2026). _Evidence in Networked Metaverse Systems: Comparability, Reproducibility, and Deployment_ (Version V1). Zenodo. https://doi.org/10.5281/zenodo.23185839**
 
-- Metaverse definitions and architectural evolution
-- XR communication, rendering, and interaction
-- 5G/6G and beyond
-- edge, fog, cloud, and cloud-continuum systems
-- digital twins and cyber-physical integration
-- AI, machine learning, generative AI, and autonomous agents
-- resource allocation and computation offloading
-- semantic communications
-- security, privacy, identity, and trust
-- blockchain and Web3 mechanisms
-- interoperability and standards
-- QoS, QoE, scalability, reliability, and resilience
-- energy efficiency and sustainability
-- datasets, benchmarks, implementations, and reproducibility
+Zenodo DOI: https://doi.org/10.5281/zenodo.23185839
 
-## Evidence-first principle
+## Authors
 
-A reported limitation is not automatically treated as a research gap. Candidate gaps are retained only after checking the relevant literature, available implementations, datasets, evaluation settings, baselines, and contrary evidence.
+- **Mohammad Amir Khusru Akhtar** — Faculty of Computing and Information Technology, Usha Martin University, Ranchi, Jharkhand, India.
+- **Anand Nayyar** — School of Computer Science and Artificial Intelligence (SCA), Duy Tan University, Da Nang, Viet Nam.
+- Corresponding author: **Anand Nayyar**.
+
+## Frozen evidence base
+
+The manuscript uses a frozen bibliography of **200 records** under a non-overlapping primary-domain navigation rule:
+
+| Primary navigation domain | Records |
+|---|---:|
+| Networking / edge / XR | 38 |
+| Digital twin | 21 |
+| Semantic communication | 18 |
+| AI / GenAI | 25 |
+| Security / privacy | 32 |
+| Standards / interoperability | 9 |
+| Sustainability | 18 |
+| Datasets / testbeds | 12 |
+| Foundations / applications / other | 27 |
+| **Total** | **200** |
+
+These are corpus-navigation counts, not substitutes for claim-specific empirical denominators.
+
+## Evidence architecture
+
+### Cross-paper comparability
+
+Each study is represented by:
+
+`C = (P, W, D, H, N, B, M, E)`
+
+where the dimensions denote problem definition, workload, dataset/input, hardware, network/system conditions, baselines, metric definition, and evaluation protocol.
+
+Pairwise compatibility uses `{0, 0.5, 1, ?}` and the reporting classes **C0–C3**. The executed source-coded validation subset contains **21 pairs**:
+
+- C0 = 2 (9.5%)
+- C1 = 6 (28.6%)
+- C2 = 13 (61.9%)
+- C3 = 0 (0.0%)
+
+These percentages apply only to the 21 executed pairs. The 180-pair register remains a prospective frame and is not imputed.
+
+### Reproducibility and evidence maturity
+
+The framework separates evaluation, artifact, reproduction, and deployment evidence. Artifact reproducibility is audited using **R0–R4** states based on verified code, data, configuration, seeds, dependencies, instructions, persistent archive, and independent reproduction.
+
+The repository preserves bounded artifact audits rather than reporting unsupported field-wide prevalence.
+
+### Human validation
+
+Coder B completed and approved a stratified second-review validation of **50 of 200 records (25%)**. The approved workbook is preserved unchanged as a raw audit artifact. The design was an adjudicative approve/modify/reject review of pre-populated codes rather than blind independent parallel recoding; therefore Cohen’s κ is not reported as independent inter-rater reliability.
+
+### Contrary-evidence gap falsification
+
+Broad absence claims are tested against closest surveys, primary studies, datasets/testbeds, artifacts, and standards. The retained evidence agenda is:
+
+- **G1 — Comparability:** matched problem, workload, data, hardware, network conditions, baselines, metric semantics, and protocol.
+- **G2 — Reproducibility:** claim-to-artifact provenance and independent reproduction.
+- **G3 — Standards:** implementation, conformance, cross-platform testing, and adoption beyond specification publication.
+- **G4 — Security transfer:** validation on native immersive traffic, identity, spatial, behavioral, and adversarial distributions.
+- **G5 — Sustainability:** separation of resource proxies, modeled energy, measured energy, carbon accounting, and life-cycle evidence.
+- **G6 — Cross-layer evidence:** matched evaluation across networking, rendering, synchronization, semantics, security, and QoE.
 
 ## Repository structure
 
-- `protocol/` — review protocol, research questions, inclusion/exclusion rules, and search strategy
-- `taxonomy/` — controlled vocabularies and classification schemes
-- `evidence/` — structured literature and claim-evidence records
-- `agents/` — scoped research-agent specifications
-- `benchmarks/` — reproducible comparison definitions and implementations
-- `src/` — analysis and artifact-generation code
-- `tests/` — validation tests
-- `artifacts/` — generated figures, tables, timelines, and benchmark outputs
-- `.github/workflows/` — automated validation and artifact workflows
+- `protocol/` — review protocol, research questions, inclusion/exclusion rules, and search strategy.
+- `taxonomy/` — controlled vocabularies and classification schemes.
+- `evidence/` — structured literature, claim-evidence, artifact, and validation records.
+- `benchmarks/` — reproducible comparison definitions and implementations.
+- `src/` — analysis and artifact-generation code.
+- `tests/` — validation tests.
+- `artifacts/` — generated figures, tables, timelines, and supporting outputs.
+- `revision1/` — manuscript-facing empirical revision, validation, tables, figures, procedures, and audit material.
+- `revision1/comst_six_critical_changes/` — evidence-bound execution records for the six critical methodological checks.
+- `revision1/final_print_2026-10-06/` — final-print traceability notes.
 
-## Status
+## Scientific integrity boundary
 
-Research infrastructure initialized. Literature mining and evidence acquisition precede algorithm benchmarking and manuscript preparation.
+The repository follows the same evidence rule as the manuscript: unresolved provenance remains unresolved. Historical database return counts are not reconstructed when they were not preserved; unexecuted comparison pairs are not classified from titles; metadata candidate sets are not converted into prevalence denominators; and missing artifact fields are not silently converted into absence.
+
+The software and repository artifacts support independent inspection of the reported synthesis. They do not replace the peer-reviewed sources on which scientific claims are based.
+
+## Citation
+
+If you use this repository, framework, evidence architecture, or its released artifacts, please cite Version V1:
+
+> Akhtar, M. A. K. (2026). *Evidence in Networked Metaverse Systems: Comparability, Reproducibility, and Deployment* (Version V1). Zenodo. https://doi.org/10.5281/zenodo.23185839
+
+Machine-readable citation metadata is provided in `CITATION.cff`.
