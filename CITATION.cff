@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this repository, framework, evidence architecture, or its artifacts, please cite the archived Version V1."
+title: "Evidence in Networked Metaverse Systems: Comparability, Reproducibility, and Deployment"
+type: software
+version: "V1"
+date-released: 2026-10-06
+authors:
+  - family-names: "Akhtar"
+    given-names: "Mohammad Amir Khusru"
+  - family-names: "Nayyar"
+    given-names: "Anand"
+repository-code: "https://github.com/Arithmetic-Power-Geometry/Metaverse-Research-Framework"
+doi: "10.5281/zenodo.23185839"
+url: "https://doi.org/10.5281/zenodo.23185839"
+preferred-citation:
+  type: generic
+  title: "Evidence in Networked Metaverse Systems: Comparability, Reproducibility, and Deployment"
+  authors:
+    - family-names: "Akhtar"
+      given-names: "Mohammad Amir Khusru"
+  year: 2026
+  version: "V1"
+  doi: "10.5281/zenodo.23185839"
+  url: "https://doi.org/10.5281/zenodo.23185839"
