@@ -1,0 +1,5 @@
+pair_id,study_a,study_b,P,W,D,H,N,B,M,E,hard_mismatch,S_C,C_class,status,note
+P4-V01,PNE005,PNE011,0.5,0.5,?, ?,0.5,0.5,0,0.5,1,,C1,"source-coded","Metric semantics differ: QoE/latency/delivery versus energy/time/accuracy; direct ranking invalid"
+P4-V02,PNE005,PNE016,0.5,1,?,0.5,1,0.5,0.5,1,0,,C2,"source-coded","Same VR/MEC family and QoE orientation but resource/metric definitions differ"
+P4-V03,PNE016,PNE017,0.5,1,?,0.5,1,0.5,0,1,1,,C1,"source-coded","EdgeVRQoE/visual-quality/resource-utilization versus sensor-age/device-power/MTP makes direct ranking invalid"
+P4-V04,PNE005,PNE017,0.5,1,?,0.5,1,0.5,0,1,1,,C1,"source-coded","Both immersive VR/MEC, but metric semantics and constrained objective differ"
