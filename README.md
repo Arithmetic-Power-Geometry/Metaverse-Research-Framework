@@ -4,21 +4,16 @@
 
 This repository contains the research software, structured evidence files, validation scripts, source registers, and supporting artifacts for:
 
-**Mohammad Amir Khusru Akhtar and Anand Nayyar, “Evidence in Networked Metaverse Systems: Comparability, Reproducibility, and Deployment.”**
+**Mohammad Amir Khusru Akhtar, Anand Nayyar, and Sumendra Yogarayan, “Evidence in Networked Metaverse Systems: Comparability, Reproducibility, and Deployment.”**
 
 The study treats **evidence rather than technology labels as the unit of synthesis**. The framework links claims to problem definitions, workloads, datasets/inputs, hardware, network/system conditions, baselines, metric semantics, evaluation protocols, artifacts, reproduction evidence, deployment evidence, and standards evidence.
-
-## Version V1 and archival citation
-
-**Akhtar, M. A. K. (2026). _Evidence in Networked Metaverse Systems: Comparability, Reproducibility, and Deployment_ (Version V1). Zenodo. https://doi.org/10.5281/zenodo.23185839**
-
-Zenodo DOI: https://doi.org/10.5281/zenodo.23185839
 
 ## Authors
 
 - **Mohammad Amir Khusru Akhtar** — Faculty of Computing and Information Technology, Usha Martin University, Ranchi, Jharkhand, India.
 - **Anand Nayyar** — School of Computer Science and Artificial Intelligence (SCA), Duy Tan University, Da Nang, Viet Nam.
-- Corresponding author: **Anand Nayyar**.
+- **Sumendra Yogarayan** — Faculty of Information Science and Technology (FIST), Multimedia University, 75450 Melaka, Malaysia. Email: sumendra@mmu.edu.my.
+- Corresponding author: **Sumendra Yogarayan** (sumendra@mmu.edu.my).
 
 ## Frozen evidence base
 
@@ -100,11 +95,10 @@ The software and repository artifacts support independent inspection of the repo
 
 ## Citation
 
-If you use this repository, framework, evidence architecture, or its released artifacts, please cite Version V1:
+For citation, refer to the manuscript: **Akhtar, M. A. K., Nayyar, A., and Yogarayan, S. (2026). _Evidence in Networked Metaverse Systems: Comparability, Reproducibility, and Deployment_.**
 
-> Akhtar, M. A. K. (2026). *Evidence in Networked Metaverse Systems: Comparability, Reproducibility, and Deployment* (Version V1). Zenodo. https://doi.org/10.5281/zenodo.23185839
+Machine-readable citation metadata is provided in `CITATION.cff`; check that it reflects the final author list before release.
 
-Machine-readable citation metadata is provided in `CITATION.cff`.
 ## License and copyright
 
 Copyright © 2026 Mohammad Amir Khusru Akhtar.
