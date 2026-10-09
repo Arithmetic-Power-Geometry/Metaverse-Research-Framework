@@ -93,11 +93,6 @@ The repository follows the same evidence rule as the manuscript: unresolved prov
 
 The software and repository artifacts support independent inspection of the reported synthesis. They do not replace the peer-reviewed sources on which scientific claims are based.
 
-## Citation
-
-For citation, refer to the manuscript: **Akhtar, M. A. K., Nayyar, A., and Yogarayan, S. (2026). _Evidence in Networked Metaverse Systems: Comparability, Reproducibility, and Deployment_.**
-
-Machine-readable citation metadata is provided in `CITATION.cff`; check that it reflects the final author list before release.
 
 ## License and copyright
 
